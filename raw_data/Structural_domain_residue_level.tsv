@@ -1,44 +1,44 @@
 his_uniprot	his_protein_name	his_organism	his_type_binding_sites	BP_uniprot	BP_protein_name	BP_domain	BP_organism	his_type	his_binding_site	PDB	nucleosome_structure	
-	H3	Homo sapiens	H3_3	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	3	6chg	no
-	H3	Homo sapiens	H3_4	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	4	6chg	no
-	H3	Homo sapiens	H3_5	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	5	6chg	no
-	H4K5ac peptide	Homo sapiens	H4_2	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	2	5vs7	no
-	H4K5ac peptide	Homo sapiens	H4_3	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	3	5vs7	no
-	H4K5ac peptide	Homo sapiens	H4_4	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	4	5vs7	no
-	H4K5ac peptide	Homo sapiens	H4_5	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	5	5vs7	no
-	H4K5ac peptide	Homo sapiens	H4_6	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	6	5vs7	no
-	HISTONE H3 TAIL	Homo sapiens	H3_1	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	1	2vpe	no
-	HISTONE H3 TAIL	Homo sapiens	H3_2	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	2	2vpe	no
-	HISTONE H3 TAIL	Homo sapiens	H3_3	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	3	2vpe	no
-	HISTONE H3 TAIL	Homo sapiens	H3_4	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	4	2vpe	no
-	HISTONE H3 TAIL	Homo sapiens	H3_5	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	5	2vpe	no
-	HISTONE H3 TAIL	Homo sapiens	H3_6	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	6	2vpe	no
-	HISTONE H3.1T	Homo sapiens	H3_26	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	26	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_27	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	27	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_27	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	27	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_28	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	28	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_28	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	28	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_29	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	29	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_29	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	29	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_30	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	30	4v2v	no
-	HISTONE H3.1T	Homo sapiens	H3_30	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	30	4v2v	no
-	Histone H3 peptide	Homo sapiens	H3_1	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	1	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_2	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	2	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_3	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	3	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_4	q96t88	E3 ubiquitin-protein ligase UHRF1	NA	Homo sapiens	H3	4	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_4	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	4	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_5	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	5	3shb	no
-	Histone H3 peptide	Homo sapiens	H3_7	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	7	3shb	no
-	Histone H3(1-21)K4Ac	Homo sapiens	H3_10	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H3	10	4tt4	no
-	Histone H3(1-21)K4Ac	Homo sapiens	H3_11	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H3	11	4tt4	no
-	Histone H3(1-21)K4Ac	Homo sapiens	H3_13	q6pl18	ATPase family AAA domain-containing protein 2	NA	Homo sapiens	H3	13	4tt4	no
-	Histone H4	Homo sapiens	H4_12	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	12	6o7g	no
-	Histone H4	Homo sapiens	H4_13	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	13	6o7g	no
-	Histone H4	Homo sapiens	H4_14	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	14	6o7g	no
-	Histone H4	Homo sapiens	H4_15	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	15	6o7g	no
-	Histone H4	Homo sapiens	H4_16	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	16	6o7g	no
-	Histone H4	Homo sapiens	H4_17	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	17	6o7g	no
-	Histone H4	Homo sapiens	H4_18	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	18	6o7g	no
+NA	H3	Homo sapiens	H3_3	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	3	6chg	no
+NA	H3	Homo sapiens	H3_4	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	4	6chg	no
+NA	H3	Homo sapiens	H3_5	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific	NA	Kluyveromyces lactis	H3	5	6chg	no
+NA	H4K5ac peptide	Homo sapiens	H4_2	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	2	5vs7	no
+NA	H4K5ac peptide	Homo sapiens	H4_3	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	3	5vs7	no
+NA	H4K5ac peptide	Homo sapiens	H4_4	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	4	5vs7	no
+NA	H4K5ac peptide	Homo sapiens	H4_5	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	5	5vs7	no
+NA	H4K5ac peptide	Homo sapiens	H4_6	q8ik82	Bromodomain protein, putative	NA	Plasmodium falciparum	H4	6	5vs7	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_1	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	1	2vpe	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_2	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	2	2vpe	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_3	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	3	2vpe	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_4	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	4	2vpe	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_5	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	5	2vpe	no
+NA	HISTONE H3 TAIL	Homo sapiens	H3_6	q9y3y4	Pygopus homolog 1	PHD_PYGO1	Homo sapiens	H3	6	2vpe	no
+NA	HISTONE H3.1T	Homo sapiens	H3_26	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	26	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_27	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	27	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_27	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	27	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_28	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	28	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_28	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	28	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_29	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	29	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_29	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	29	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_30	o75164	Lysine-specific demethylase 4A	JmjC	Homo sapiens	H3	30	4v2v	no
+NA	HISTONE H3.1T	Homo sapiens	H3_30	o75164	Lysine-specific demethylase 4A	NA	Homo sapiens	H3	30	4v2v	no
+NA	Histone H3 peptide	Homo sapiens	H3_1	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	1	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_2	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	2	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_3	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	3	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_4	q96t88	E3 ubiquitin-protein ligase UHRF1	NA	Homo sapiens	H3	4	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_4	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	4	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_5	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	5	3shb	no
+NA	Histone H3 peptide	Homo sapiens	H3_7	q96t88	E3 ubiquitin-protein ligase UHRF1	PHD_UHRF1	Homo sapiens	H3	7	3shb	no
+NA	Histone H3(1-21)K4Ac	Homo sapiens	H3_10	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H3	10	4tt4	no
+NA	Histone H3(1-21)K4Ac	Homo sapiens	H3_11	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H3	11	4tt4	no
+NA	Histone H3(1-21)K4Ac	Homo sapiens	H3_13	q6pl18	ATPase family AAA domain-containing protein 2	NA	Homo sapiens	H3	13	4tt4	no
+NA	Histone H4	Homo sapiens	H4_12	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	12	6o7g	no
+NA	Histone H4	Homo sapiens	H4_13	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	13	6o7g	no
+NA	Histone H4	Homo sapiens	H4_14	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	14	6o7g	no
+NA	Histone H4	Homo sapiens	H4_15	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	15	6o7g	no
+NA	Histone H4	Homo sapiens	H4_16	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	16	6o7g	no
+NA	Histone H4	Homo sapiens	H4_17	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	17	6o7g	no
+NA	Histone H4	Homo sapiens	H4_18	o14686	Histone-lysine N-methyltransferase 2D	NA	Homo sapiens	H4	18	6o7g	no
 p62805	Histone H4 peptide	Homo sapiens	H4_11	q9y5n5	Methyltransferase N6AMT1	NA	Homo sapiens	H4	11	6h1e	no
 p62805	Histone H4 peptide	Homo sapiens	H4_12	q9y5n5	Methyltransferase N6AMT1	NA	Homo sapiens	H4	12	6h1e	no
 p62805	Histone H4 peptide	Homo sapiens	H4_13	q9y5n5	Methyltransferase N6AMT1	NA	Homo sapiens	H4	13	6h1e	no
@@ -49,20 +49,20 @@ p62805	Histone H4K5Ac	Homo sapiens	H4_2	q6pl18	ATPase family AAA domain-containi
 p62805	Histone H4K5Ac	Homo sapiens	H4_3	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H4	3	4tt2	no
 p62805	Histone H4K5Ac	Homo sapiens	H4_4	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H4	4	4tt2	no
 p62805	Histone H4K5Ac	Homo sapiens	H4_5	q6pl18	ATPase family AAA domain-containing protein 2	Bromo_AAA	Homo sapiens	H4	5	4tt2	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_17	q9y657	Spindlin-1	NA	Homo sapiens	H4	17	5y5w	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_17	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	17	5y5w	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_18	q9y657	Spindlin-1	NA	Homo sapiens	H4	18	5y5w	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_18	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	18	5y5w	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_19	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	19	5y5w	no
-	Histone peptide H4K20(me3)	Homo sapiens	H4_20	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	20	5y5w	no
-	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_1	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	1	6yif	no
-	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_2	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	2	6yif	no
-	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_3	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	3	6yif	no
-	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_4	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	4	6yif	no
-	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_5	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	5	6yif	no
-	histone H4 tripeptide	Homo sapiens	H4_2	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	2	5efn	no
-	histone H4 tripeptide	Homo sapiens	H4_3	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	3	5efn	no
-	histone H4 tripeptide	Homo sapiens	H4_4	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	4	5efn	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_17	q9y657	Spindlin-1	NA	Homo sapiens	H4	17	5y5w	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_17	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	17	5y5w	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_18	q9y657	Spindlin-1	NA	Homo sapiens	H4	18	5y5w	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_18	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	18	5y5w	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_19	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	19	5y5w	no
+NA	Histone peptide H4K20(me3)	Homo sapiens	H4_20	q9y657	Spindlin-1	Spin-Ssty	Homo sapiens	H4	20	5y5w	no
+NA	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_1	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	1	6yif	no
+NA	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_2	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	2	6yif	no
+NA	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_3	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	3	6yif	no
+NA	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_4	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	4	6yif	no
+NA	Phosphorylated (Thr3) Histone H3	Homo sapiens	H3_5	o15392	Baculoviral IAP repeat-containing protein 5	NA	Homo sapiens	H3	5	6yif	no
+NA	histone H4 tripeptide	Homo sapiens	H4_2	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	2	5efn	no
+NA	histone H4 tripeptide	Homo sapiens	H4_3	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	3	5efn	no
+NA	histone H4 tripeptide	Homo sapiens	H4_4	f8w4b7	Histone deacetylase	HDAC6-dom2	Danio rerio	H4	4	5efn	no
 k7emv3	Histone H3	Homo sapiens	H3_11	q92794	Histone acetyltransferase KAT6A	NA	Homo sapiens	H3	11	5b78	no
 k7emv3	Histone H3	Homo sapiens	H3_11	q92794	Histone acetyltransferase KAT6A	PHD1_MOZ	Homo sapiens	H3	11	5b75	no
 k7emv3	Histone H3	Homo sapiens	H3_11	q92794	Histone acetyltransferase KAT6A	PHD1_MOZ	Homo sapiens	H3	11	5b76	no
