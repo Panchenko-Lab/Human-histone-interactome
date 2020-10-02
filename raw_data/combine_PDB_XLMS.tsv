@@ -1,0 +1,1322 @@
+source_uniprot	source_protein_name	target_uniprot	target_protein_name
+H1	H1	o75164	Lysine-specific demethylase 4A
+H1	H1	q13185	Chromobox protein homolog 3
+H1	H1	q14974	Importin subunit beta-1
+H1	H1	q9y468	Lethal(3)malignant brain tumor-like protein 1
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	o00160	HUMAN Unconventional myosin-If OS=Homo sapiens GN=MYO1F PE=1 SV=3
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	o94923	HUMAN D-glucuronyl C5-epimerase OS=Homo sapiens GN=GLCE PE=1 SV=3
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	o95084	HUMAN Serine protease 23 OS=Homo sapiens GN=PRSS23 PE=1 SV=1
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	p48741	HUMAN Putative heat shock 70 kDa protein 7 OS=Homo sapiens GN=HSPA7 PE=5 SV=2
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	q14512	HUMAN Fibroblast growth factor-binding protein 1 OS=Homo sapiens GN=FGFBP1 PE=1 SV=1
+H1	HUMAN Histone H1.0 OS=Homo sapiens GN=H1F0 PE=1 SV=3	q7z4h7	HUMAN HAUS augmin-like complex subunit 6 OS=Homo sapiens GN=HAUS6 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	o14958	HUMAN Calsequestrin-2 OS=Homo sapiens GN=CASQ2 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	o15090	HUMAN Zinc finger protein 536 OS=Homo sapiens GN=ZNF536 PE=1 SV=3
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	o60673	HUMAN DNA polymerase zeta catalytic subunit OS=Homo sapiens GN=REV3L PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	o75521	HUMAN Enoyl-CoA delta isomerase 2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	o75912	HUMAN Diacylglycerol kinase iota OS=Homo sapiens GN=DGKI PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p12036	HUMAN Neurofilament heavy polypeptide OS=Homo sapiens GN=NEFH PE=1 SV=4
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p16471	HUMAN Prolactin receptor OS=Homo sapiens GN=PRLR PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p23560	HUMAN Brain-derived neurotrophic factor OS=Homo sapiens GN=BDNF PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p26196	HUMAN Probable ATP-dependent RNA helicase DDX6 OS=Homo sapiens GN=DDX6 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p33992	HUMAN DNA replication licensing factor MCM5 OS=Homo sapiens GN=MCM5 PE=1 SV=5
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p35499	HUMAN Sodium channel protein type 4 subunit alpha OS=Homo sapiens GN=SCN4A PE=1 SV=4
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	p82914	HUMAN 28S ribosomal protein S15
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q13426	HUMAN DNA repair protein XRCC4 OS=Homo sapiens GN=XRCC4 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q14642	HUMAN Type I inositol 1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q14678	HUMAN KN motif and ankyrin repeat domain-containing protein 1 OS=Homo sapiens GN=KANK1 PE=1 SV=3
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q5vzl5	HUMAN Zinc finger MYM-type protein 4 OS=Homo sapiens GN=ZMYM4 PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q6ic83	HUMAN Uncharacterized protein C22orf42 OS=Homo sapiens GN=C22orf42 PE=2 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q6in85	HUMAN Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Homo sapiens GN=PPP4R3A PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q7z7g8	HUMAN Vacuolar protein sorting-associated protein 13B OS=Homo sapiens GN=VPS13B PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q86xj1	HUMAN GAS2-like protein 3 OS=Homo sapiens GN=GAS2L3 PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q8iux8	HUMAN Epidermal growth factor-like protein 6 OS=Homo sapiens GN=EGFL6 PE=2 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q8iy18	HUMAN Structural maintenance of chromosomes protein 5 OS=Homo sapiens GN=SMC5 PE=1 SV=2
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q8wyk1	HUMAN Contactin-associated protein-like 5 OS=Homo sapiens GN=CNTNAP5 PE=2 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9h6t0	HUMAN Epithelial splicing regulatory protein 2 OS=Homo sapiens GN=ESRP2 PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9nq66	HUMAN 1-phosphatidylinositol 4
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9nqz2	HUMAN Something about silencing protein 10 OS=Homo sapiens GN=UTP3 PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9nvq4	HUMAN Fas apoptotic inhibitory molecule 1 OS=Homo sapiens GN=FAIM PE=1 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H1	HUMAN Histone H1.1 OS=Homo sapiens GN=HIST1H1A PE=1 SV=3	q9y236	HUMAN Oxidative stress-induced growth inhibitor 2 OS=Homo sapiens GN=OSGIN2 PE=2 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o14958	HUMAN Calsequestrin-2 OS=Homo sapiens GN=CASQ2 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o15054	HUMAN Lysine-specific demethylase 6B OS=Homo sapiens GN=KDM6B PE=1 SV=4
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o43295	HUMAN SLIT-ROBO Rho GTPase-activating protein 3 OS=Homo sapiens GN=SRGAP3 PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o43586	HUMAN Proline-serine-threonine phosphatase-interacting protein 1 OS=Homo sapiens GN=PSTPIP1 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o60673	HUMAN DNA polymerase zeta catalytic subunit OS=Homo sapiens GN=REV3L PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o75521	HUMAN Enoyl-CoA delta isomerase 2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o94810	HUMAN Regulator of G-protein signaling 11 OS=Homo sapiens GN=RGS11 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	o94933	HUMAN SLIT and NTRK-like protein 3 OS=Homo sapiens GN=SLITRK3 PE=2 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p18858	HUMAN DNA ligase 1 OS=Homo sapiens GN=LIG1 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p29120	HUMAN Neuroendocrine convertase 1 OS=Homo sapiens GN=PCSK1 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p35269	HUMAN General transcription factor IIF subunit 1 OS=Homo sapiens GN=GTF2F1 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p51114	HUMAN Fragile X mental retardation syndrome-related protein 1 OS=Homo sapiens GN=FXR1 PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	p83731	HUMAN 60S ribosomal protein L24 OS=Homo sapiens GN=RPL24 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q01484	HUMAN Ankyrin-2 OS=Homo sapiens GN=ANK2 PE=1 SV=4
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q07092	HUMAN Collagen alpha-1(XVI) chain OS=Homo sapiens GN=COL16A1 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q13459	HUMAN Unconventional myosin-IXb OS=Homo sapiens GN=MYO9B PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q5ssj5	HUMAN Heterochromatin protein 1-binding protein 3 OS=Homo sapiens GN=HP1BP3 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q6in85	HUMAN Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Homo sapiens GN=PPP4R3A PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q6nxp0	HUMAN EF-hand calcium-binding domain-containing protein 12 OS=Homo sapiens GN=EFCAB12 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q6zn66	HUMAN Guanylate-binding protein 6 OS=Homo sapiens GN=GBP6 PE=2 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q7z6b0	HUMAN Coiled-coil domain-containing protein 91 OS=Homo sapiens GN=CCDC91 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8n6h7	HUMAN ADP-ribosylation factor GTPase-activating protein 2 OS=Homo sapiens GN=ARFGAP2 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8n6m6	HUMAN Aminopeptidase O OS=Homo sapiens GN=AOPEP PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8ndi1	HUMAN EH domain-binding protein 1 OS=Homo sapiens GN=EHBP1 PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8nen9	HUMAN PDZ domain-containing protein 8 OS=Homo sapiens GN=PDZD8 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8wuu4	HUMAN Zinc finger protein 296 OS=Homo sapiens GN=ZNF296 PE=2 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8wyj6	HUMAN Septin-1 OS=Homo sapiens GN=SEPT1 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q92576	HUMAN PHD finger protein 3 OS=Homo sapiens GN=PHF3 PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9h892	HUMAN Tetratricopeptide repeat protein 12 OS=Homo sapiens GN=TTC12 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9nqz2	HUMAN Something about silencing protein 10 OS=Homo sapiens GN=UTP3 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9uhw9	HUMAN Solute carrier family 12 member 6 OS=Homo sapiens GN=SLC12A6 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9uig0	HUMAN Tyrosine-protein kinase BAZ1B OS=Homo sapiens GN=BAZ1B PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9ujt2	HUMAN Testis-specific serine kinase substrate OS=Homo sapiens GN=TSKS PE=1 SV=3
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9y4k4	HUMAN Mitogen-activated protein kinase kinase kinase kinase 5 OS=Homo sapiens GN=MAP4K5 PE=1 SV=1
+H1	HUMAN Histone H1.2 OS=Homo sapiens GN=HIST1H1C PE=1 SV=2	q9y6q1	HUMAN Calpain-6 OS=Homo sapiens GN=CAPN6 PE=1 SV=2
+H1	HUMAN Histone H1.3 OS=Homo sapiens GN=HIST1H1D PE=1 SV=2	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H1	HUMAN Histone H1.3 OS=Homo sapiens GN=HIST1H1D PE=1 SV=2	q13956	HUMAN Retinal cone rhodopsin-sensitive cGMP 3'
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	p50914	HUMAN 60S ribosomal protein L14 OS=Homo sapiens GN=RPL14 PE=1 SV=4
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q14642	HUMAN Type I inositol 1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q3yec7	HUMAN Rab-like protein 6 OS=Homo sapiens GN=RABL6 PE=1 SV=2
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q5ssj5	HUMAN Heterochromatin protein 1-binding protein 3 OS=Homo sapiens GN=HP1BP3 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q6piw4	HUMAN Fidgetin-like protein 1 OS=Homo sapiens GN=FIGNL1 PE=1 SV=2
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q6zqq6	HUMAN WD repeat-containing protein 87 OS=Homo sapiens GN=WDR87 PE=1 SV=3
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q86y22	HUMAN Collagen alpha-1(XXIII) chain OS=Homo sapiens GN=COL23A1 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q8iyw2	HUMAN Cilia- and flagella-associated protein 46 OS=Homo sapiens GN=CFAP46 PE=2 SV=3
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q8n6h7	HUMAN ADP-ribosylation factor GTPase-activating protein 2 OS=Homo sapiens GN=ARFGAP2 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q8nen9	HUMAN PDZ domain-containing protein 8 OS=Homo sapiens GN=PDZD8 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q96mn5	HUMAN Transcription elongation factor A N-terminal and central domain-containing protein 2 OS=Homo sapiens GN=TCEANC2 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q96qh2	HUMAN PML-RARA-regulated adapter molecule 1 OS=Homo sapiens GN=PRAM1 PE=1 SV=2
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9byn7	HUMAN Isoform 2 of Zinc finger protein 341 OS=Homo sapiens GN=ZNF341
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9nqz2	HUMAN Something about silencing protein 10 OS=Homo sapiens GN=UTP3 PE=1 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9uig0	HUMAN Tyrosine-protein kinase BAZ1B OS=Homo sapiens GN=BAZ1B PE=1 SV=2
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9ujt2	HUMAN Testis-specific serine kinase substrate OS=Homo sapiens GN=TSKS PE=1 SV=3
+H1	HUMAN Histone H1.4 OS=Homo sapiens GN=HIST1H1E PE=1 SV=2	q9y4b4	HUMAN Helicase ARIP4 OS=Homo sapiens GN=RAD54L2 PE=1 SV=4
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	a6njl1	HUMAN Zinc finger and SCAN domain-containing protein 5B OS=Homo sapiens GN=ZSCAN5B PE=3 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	o14958	HUMAN Calsequestrin-2 OS=Homo sapiens GN=CASQ2 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	o15090	HUMAN Zinc finger protein 536 OS=Homo sapiens GN=ZNF536 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	o60673	HUMAN DNA polymerase zeta catalytic subunit OS=Homo sapiens GN=REV3L PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	o75844	HUMAN CAAX prenyl protease 1 homolog OS=Homo sapiens GN=ZMPSTE24 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p35499	HUMAN Sodium channel protein type 4 subunit alpha OS=Homo sapiens GN=SCN4A PE=1 SV=4
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p35626	HUMAN Beta-adrenergic receptor kinase 2 OS=Homo sapiens GN=ADRBK2 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p49641	HUMAN Alpha-mannosidase 2x OS=Homo sapiens GN=MAN2A2 PE=2 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p55197	HUMAN Protein AF-10 OS=Homo sapiens GN=MLLT10 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	p68104	HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q13459	HUMAN Unconventional myosin-IXb OS=Homo sapiens GN=MYO9B PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q5jy77	HUMAN G-protein coupled receptor-associated sorting protein 1 OS=Homo sapiens GN=GPRASP1 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q5ssj5	HUMAN Heterochromatin protein 1-binding protein 3 OS=Homo sapiens GN=HP1BP3 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q6in85	HUMAN Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Homo sapiens GN=PPP4R3A PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q6zn66	HUMAN Guanylate-binding protein 6 OS=Homo sapiens GN=GBP6 PE=2 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q6zqq6	HUMAN Isoform 2 of WD repeat-containing protein 87 OS=Homo sapiens GN=WDR87
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q7l2e3	HUMAN Putative ATP-dependent RNA helicase DHX30 OS=Homo sapiens GN=DHX30 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8iy18	HUMAN Structural maintenance of chromosomes protein 5 OS=Homo sapiens GN=SMC5 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8iyx3	HUMAN Coiled-coil domain-containing protein 116 OS=Homo sapiens GN=CCDC116 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8n4n8	HUMAN Kinesin-like protein KIF2B OS=Homo sapiens GN=KIF2B PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8ndi1	HUMAN EH domain-binding protein 1 OS=Homo sapiens GN=EHBP1 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8nen9	HUMAN PDZ domain-containing protein 8 OS=Homo sapiens GN=PDZD8 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q8wyj6	HUMAN Septin-1 OS=Homo sapiens GN=SEPT1 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q92576	HUMAN PHD finger protein 3 OS=Homo sapiens GN=PHF3 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q96ez8	HUMAN Microspherule protein 1 OS=Homo sapiens GN=MCRS1 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q99626	HUMAN Homeobox protein CDX-2 OS=Homo sapiens GN=CDX2 PE=2 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9bqi3	HUMAN Eukaryotic translation initiation factor 2-alpha kinase 1 OS=Homo sapiens GN=EIF2AK1 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9byn7	HUMAN Zinc finger protein 341 OS=Homo sapiens GN=ZNF341 PE=1 SV=2
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9hck1	HUMAN DBF4-type zinc finger-containing protein 2 OS=Homo sapiens GN=ZDBF2 PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9nqz2	HUMAN Something about silencing protein 10 OS=Homo sapiens GN=UTP3 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9uhb7	HUMAN AF4/FMR2 family member 4 OS=Homo sapiens GN=AFF4 PE=1 SV=1
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9ujt2	HUMAN Testis-specific serine kinase substrate OS=Homo sapiens GN=TSKS PE=1 SV=3
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9y4b4	HUMAN Helicase ARIP4 OS=Homo sapiens GN=RAD54L2 PE=1 SV=4
+H1	HUMAN Histone H1.5 OS=Homo sapiens GN=HIST1H1B PE=1 SV=3	q9y4l1	HUMAN Isoform 2 of Hypoxia up-regulated protein 1 OS=Homo sapiens GN=HYOU1
+H1	HUMAN Histone H1oo OS=Homo sapiens GN=H1FOO PE=2 SV=1	p35268	HUMAN 60S ribosomal protein L22 OS=Homo sapiens GN=RPL22 PE=1 SV=2
+H2A	H2A		scFv
+H2A	H2A	c4qzq7	DNA-directed RNA polymerase subunit beta
+H2A	H2A	g0ryc2	RuvB-like helicase
+H2A	H2A	g0s589	Actin related protein 5
+H2A	H2A	g0s590	Ies6
+H2A	H2A	o43791	Speckle-type POZ protein
+H2A	H2A	p0cg47	Polyubiquitin-B
+H2A	H2A	p14350	Pro-Pol polyprotein
+H2A	H2A	p17693	HLA class I histocompatibility antigen, alpha chain G
+H2A	H2A	p38326	SWR1-complex protein 5
+H2A	H2A	p55201	Peregrin
+H2A	H2A	q03188	Centromere protein C
+H2A	H2A	q08945	FACT complex subunit SSRP1
+H2A	H2A	q12888	TP53-binding protein 1
+H2A	H2A	q14676	Mediator of DNA damage checkpoint protein 1
+H2A	H2A	q15906	Vacuolar protein sorting-associated protein 72 homolog
+H2A	H2A	q5nvk7	Speckle-type POZ protein
+H2A	H2A	q6zw49	PAX-interacting protein 1
+H2A	H2A	q8ncn4	E3 ubiquitin-protein ligase RNF169
+H2A	H2A	q8nem0	Microcephalin
+H2A	H2A	q9btt0	Acidic leucine-rich nuclear phosphoprotein 32 family member E
+H2A	H2A	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H2A	H2A	q9qr71	Protein LANA1
+H2A	H2A	q9uqr0	Sex comb on midleg-like protein 2
+H2A	H2A	q9vkm6	Vacuolar protein sorting-associated protein 72 homolog
+H2A	H2A	q9y5b9	FACT complex subunit SPT16
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p18754	HUMAN Regulator of chromosome condensation OS=Homo sapiens GN=RCC1 PE=1 SV=1
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2
+H2A	HUMAN Histone H2A type 1-B/E OS=Homo sapiens GN=HIST1H2AB PE=1 SV=2	q5ssj5	HUMAN Heterochromatin protein 1-binding protein 3 OS=Homo sapiens GN=HP1BP3 PE=1 SV=1
+H2A	HUMAN Histone H2A type 1-H OS=Homo sapiens GN=HIST1H2AH PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H2A	HUMAN Histone H2A type 1-H OS=Homo sapiens GN=HIST1H2AH PE=1 SV=3	p68104	HUMAN Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1
+H2A	HUMAN Histone H2A type 1-J OS=Homo sapiens GN=HIST1H2AJ PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2A	HUMAN Histone H2A type 2-B OS=Homo sapiens GN=HIST2H2AB PE=1 SV=3	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H2A	HUMAN Histone H2A type 2-B OS=Homo sapiens GN=HIST2H2AB PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2A	HUMAN Histone H2A.Z OS=Homo sapiens GN=H2AFZ PE=1 SV=2	p62861	HUMAN 40S ribosomal protein S30 OS=Homo sapiens GN=FAU PE=1 SV=1
+H2A	HUMAN Histone H2A.Z OS=Homo sapiens GN=H2AFZ PE=1 SV=2	q8ne71	HUMAN ATP-binding cassette sub-family F member 1 OS=Homo sapiens GN=ABCF1 PE=1 SV=2
+H2A	HUMAN Histone H2A.Z OS=Homo sapiens GN=H2AFZ PE=1 SV=2	q9uhb7	HUMAN AF4/FMR2 family member 4 OS=Homo sapiens GN=AFF4 PE=1 SV=1
+H2B	H2B		Ino80
+H2B	H2B		scFv
+H2B	H2B	c4qzq7	DNA-directed RNA polymerase subunit beta
+H2B	H2B	g0ryc2	RuvB-like helicase
+H2B	H2B	g0s590	Ies6
+H2B	H2B	p01903	HLA class II histocompatibility antigen, DR alpha chain
+H2B	H2B	p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain
+H2B	H2B	p0cg47	Polyubiquitin-B
+H2B	H2B	p14350	Pro-Pol polyprotein
+H2B	H2B	p38326	SWR1-complex protein 5
+H2B	H2B	q03188	Centromere protein C
+H2B	H2B	q12888	TP53-binding protein 1
+H2B	H2B	q15906	Vacuolar protein sorting-associated protein 72 homolog
+H2B	H2B	q96h22	Centromere protein N
+H2B	H2B	q9btt0	Acidic leucine-rich nuclear phosphoprotein 32 family member E
+H2B	H2B	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H2B	H2B	q9qr71	Protein LANA1
+H2B	H2B	q9y5b9	FACT complex subunit SPT16
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	o94874	HUMAN E3 UFM1-protein ligase 1 OS=Homo sapiens GN=UFL1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q13127	HUMAN RE1-silencing transcription factor OS=Homo sapiens GN=REST PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q14764	HUMAN Major vault protein OS=Homo sapiens GN=MVP PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q53el6	HUMAN Programmed cell death protein 4 OS=Homo sapiens GN=PDCD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q5t0f9	HUMAN Coiled-coil and C2 domain-containing protein 1B OS=Homo sapiens GN=CC2D1B PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	b1ajz9	HUMAN Isoform 3 of Forkhead-associated domain-containing protein 1 OS=Homo sapiens GN=FHAD1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	o14958	HUMAN Calsequestrin-2 OS=Homo sapiens GN=CASQ2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	o94933	HUMAN SLIT and NTRK-like protein 3 OS=Homo sapiens GN=SLITRK3 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p09874	HUMAN Poly [ADP-ribose] polymerase 1 OS=Homo sapiens GN=PARP1 PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p11388	HUMAN DNA topoisomerase 2-alpha OS=Homo sapiens GN=TOP2A PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p17096	HUMAN Isoform HMG-Y of High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p25490	HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens GN=YY1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p26358	HUMAN DNA (cytosine-5)-methyltransferase 1 OS=Homo sapiens GN=DNMT1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p43155	HUMAN Carnitine O-acetyltransferase OS=Homo sapiens GN=CRAT PE=1 SV=5
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p48741	HUMAN Putative heat shock 70 kDa protein 7 OS=Homo sapiens GN=HSPA7 PE=5 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p48995	HUMAN Short transient receptor potential channel 1 OS=Homo sapiens GN=TRPC1 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p50914	HUMAN 60S ribosomal protein L14 OS=Homo sapiens GN=RPL14 PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p52756	HUMAN Isoform 3 of RNA-binding protein 5 OS=Homo sapiens GN=RBM5
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p52948	HUMAN Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens GN=NUP98 PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p59046	HUMAN NACHT
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p62750	HUMAN 60S ribosomal protein L23a OS=Homo sapiens GN=RPL23A PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	p98171	HUMAN Rho GTPase-activating protein 4 OS=Homo sapiens GN=ARHGAP4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q13889	HUMAN General transcription factor IIH subunit 3 OS=Homo sapiens GN=GTF2H3 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q14764	HUMAN Major vault protein OS=Homo sapiens GN=MVP PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q15554	HUMAN Telomeric repeat-binding factor 2 OS=Homo sapiens GN=TERF2 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q15651	HUMAN High mobility group nucleosome-binding domain-containing protein 3 OS=Homo sapiens GN=HMGN3 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q15843	HUMAN NEDD8 OS=Homo sapiens GN=NEDD8 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q3sy52	HUMAN Zinc finger protein interacting with ribonucleoprotein K OS=Homo sapiens GN=ZIK1 PE=2 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q496a3	HUMAN Isoform 2 of Spermatogenesis-associated serine-rich protein 1 OS=Homo sapiens GN=SPATS1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q53el6	HUMAN Programmed cell death protein 4 OS=Homo sapiens GN=PDCD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5bkz1	HUMAN DBIRD complex subunit ZNF326 OS=Homo sapiens GN=ZNF326 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5f1r6	HUMAN DnaJ homolog subfamily C member 21 OS=Homo sapiens GN=DNAJC21 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5hyl7	HUMAN Transmembrane protein 196 OS=Homo sapiens GN=TMEM196 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5jxx5	HUMAN Glycine receptor subunit alpha-4 OS=Homo sapiens GN=GLRA4 PE=2 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5ksl6	HUMAN Diacylglycerol kinase kappa OS=Homo sapiens GN=DGKK PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5t0f9	HUMAN Coiled-coil and C2 domain-containing protein 1B OS=Homo sapiens GN=CC2D1B PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q5vuj6	HUMAN Leucine-rich repeat and calponin homology domain-containing protein 2 OS=Homo sapiens GN=LRCH2 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q6p2q9	HUMAN Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens GN=PRPF8 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q70el2	HUMAN Ubiquitin carboxyl-terminal hydrolase 45 OS=Homo sapiens GN=USP45 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q7z4v5	HUMAN Hepatoma-derived growth factor-related protein 2 OS=Homo sapiens GN=HDGFRP2 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q86yn1	HUMAN Dolichyldiphosphatase 1 OS=Homo sapiens GN=DOLPP1 PE=2 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8iux8	HUMAN Epidermal growth factor-like protein 6 OS=Homo sapiens GN=EGFL6 PE=2 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8ivf4	HUMAN Dynein heavy chain 10
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8iwu5	HUMAN Extracellular sulfatase Sulf-2 OS=Homo sapiens GN=SULF2 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8ne71	HUMAN ATP-binding cassette sub-family F member 1 OS=Homo sapiens GN=ABCF1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8nhp7	HUMAN piRNA biogenesis protein EXD1 OS=Homo sapiens GN=EXD1 PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8te59	HUMAN A disintegrin and metalloproteinase with thrombospondin motifs 19 OS=Homo sapiens GN=ADAMTS19 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8wyj6	HUMAN Septin-1 OS=Homo sapiens GN=SEPT1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96d70	HUMAN R3H domain-containing protein 4 OS=Homo sapiens GN=R3HDM4 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96ez8	HUMAN Microspherule protein 1 OS=Homo sapiens GN=MCRS1 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96jg9	HUMAN Zinc finger protein 469 OS=Homo sapiens GN=ZNF469 PE=2 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96kj9	HUMAN Cytochrome c oxidase subunit 4 isoform 2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96li9	HUMAN Putative uncharacterized protein CXorf58 OS=Homo sapiens GN=CXorf58 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96mg2	HUMAN Junctional sarcoplasmic reticulum protein 1 OS=Homo sapiens GN=JSRP1 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96mt7	HUMAN Isoform 2 of Cilia- and flagella-associated protein 44 OS=Homo sapiens GN=CFAP44
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q96n64	HUMAN PWWP domain-containing protein 2A OS=Homo sapiens GN=PWWP2A PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9bud6	HUMAN Spondin-2 OS=Homo sapiens GN=SPON2 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9bw71	HUMAN HIRA-interacting protein 3 OS=Homo sapiens GN=HIRIP3 PE=1 SV=3
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9nqz2	HUMAN Something about silencing protein 10 OS=Homo sapiens GN=UTP3 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9nvq4	HUMAN Fas apoptotic inhibitory molecule 1 OS=Homo sapiens GN=FAIM PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9uhb7	HUMAN AF4/FMR2 family member 4 OS=Homo sapiens GN=AFF4 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9uig0	HUMAN Tyrosine-protein kinase BAZ1B OS=Homo sapiens GN=BAZ1B PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9ukx2	HUMAN Myosin-2 OS=Homo sapiens GN=MYH2 PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9upp5	HUMAN Uncharacterized protein KIAA1107 OS=Homo sapiens GN=KIAA1107 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9y251	HUMAN Heparanase OS=Homo sapiens GN=HPSE PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-H OS=Homo sapiens GN=HIST1H2BH PE=1 SV=3	q9y5s2	HUMAN Serine/threonine-protein kinase MRCK beta OS=Homo sapiens GN=CDC42BPB PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3	q5hyl7	HUMAN Transmembrane protein 196 OS=Homo sapiens GN=TMEM196 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3	q96jg9	HUMAN Zinc finger protein 469 OS=Homo sapiens GN=ZNF469 PE=2 SV=3
+H2B	HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3	q9ugp5	HUMAN DNA polymerase lambda OS=Homo sapiens GN=POLL PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-M OS=Homo sapiens GN=HIST1H2BM PE=1 SV=3	p25490	HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens GN=YY1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-M OS=Homo sapiens GN=HIST1H2BM PE=1 SV=3	q53el6	HUMAN Programmed cell death protein 4 OS=Homo sapiens GN=PDCD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 1-M OS=Homo sapiens GN=HIST1H2BM PE=1 SV=3	q5t0f9	HUMAN Coiled-coil and C2 domain-containing protein 1B OS=Homo sapiens GN=CC2D1B PE=1 SV=1
+H2B	HUMAN Histone H2B type 1-N OS=Homo sapiens GN=HIST1H2BN PE=1 SV=3	q5hyl7	HUMAN Transmembrane protein 196 OS=Homo sapiens GN=TMEM196 PE=2 SV=2
+H2B	HUMAN Histone H2B type 1-N OS=Homo sapiens GN=HIST1H2BN PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	a4d1e9	HUMAN GTP-binding protein 10 OS=Homo sapiens GN=GTPBP10 PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	o14958	HUMAN Calsequestrin-2 OS=Homo sapiens GN=CASQ2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	o75054	HUMAN Immunoglobulin superfamily member 3 OS=Homo sapiens GN=IGSF3 PE=2 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	o94874	HUMAN E3 UFM1-protein ligase 1 OS=Homo sapiens GN=UFL1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p48741	HUMAN Putative heat shock 70 kDa protein 7 OS=Homo sapiens GN=HSPA7 PE=5 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	p51790	HUMAN H(+)/Cl(-) exchange transporter 3 OS=Homo sapiens GN=CLCN3 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q03989	HUMAN AT-rich interactive domain-containing protein 5A OS=Homo sapiens GN=ARID5A PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q13127	HUMAN RE1-silencing transcription factor OS=Homo sapiens GN=REST PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q14680	HUMAN Maternal embryonic leucine zipper kinase OS=Homo sapiens GN=MELK PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q14764	HUMAN Major vault protein OS=Homo sapiens GN=MVP PE=1 SV=4
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q14919	HUMAN Dr1-associated corepressor OS=Homo sapiens GN=DRAP1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q15361	HUMAN Transcription termination factor 1 OS=Homo sapiens GN=TTF1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q53el6	HUMAN Programmed cell death protein 4 OS=Homo sapiens GN=PDCD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q562f6	HUMAN Shugoshin-like 2 OS=Homo sapiens GN=SGOL2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q5hyl7	HUMAN Transmembrane protein 196 OS=Homo sapiens GN=TMEM196 PE=2 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q5t0f9	HUMAN Coiled-coil and C2 domain-containing protein 1B OS=Homo sapiens GN=CC2D1B PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q6p2q9	HUMAN Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens GN=PRPF8 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q6phw0	HUMAN Iodotyrosine deiodinase 1 OS=Homo sapiens GN=IYD PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8iyw2	HUMAN Cilia- and flagella-associated protein 46 OS=Homo sapiens GN=CFAP46 PE=2 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8n3x1	HUMAN Formin-binding protein 4 OS=Homo sapiens GN=FNBP4 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8tbk6	HUMAN Zinc finger CCHC domain-containing protein 10 OS=Homo sapiens GN=ZCCHC10 PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8wyj6	HUMAN Septin-1 OS=Homo sapiens GN=SEPT1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q96es7	HUMAN SAGA-associated factor 29 OS=Homo sapiens GN=SGF29 PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q96j77	HUMAN Tumor protein D55 OS=Homo sapiens GN=TPD52L3 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q96n64	HUMAN PWWP domain-containing protein 2A OS=Homo sapiens GN=PWWP2A PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9bud6	HUMAN Spondin-2 OS=Homo sapiens GN=SPON2 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9p281	HUMAN BAH and coiled-coil domain-containing protein 1 OS=Homo sapiens GN=BAHCC1 PE=1 SV=3
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9p2m1	HUMAN LRP2-binding protein OS=Homo sapiens GN=LRP2BP PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9ugp5	HUMAN DNA polymerase lambda OS=Homo sapiens GN=POLL PE=1 SV=1
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9ukz4	HUMAN Teneurin-1 OS=Homo sapiens GN=TENM1 PE=1 SV=2
+H2B	HUMAN Histone H2B type 2-E OS=Homo sapiens GN=HIST2H2BE PE=1 SV=3	q9upp5	HUMAN Uncharacterized protein KIAA1107 OS=Homo sapiens GN=KIAA1107 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	a0fgr9	HUMAN Extended synaptotagmin-3 OS=Homo sapiens GN=ESYT3 PE=1 SV=1
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	o14662	HUMAN Syntaxin-16 OS=Homo sapiens GN=STX16 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p23560	HUMAN Brain-derived neurotrophic factor OS=Homo sapiens GN=BDNF PE=1 SV=1
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p41220	HUMAN Regulator of G-protein signaling 2 OS=Homo sapiens GN=RGS2 PE=1 SV=1
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p62750	HUMAN 60S ribosomal protein L23a OS=Homo sapiens GN=RPL23A PE=1 SV=1
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q14764	HUMAN Major vault protein OS=Homo sapiens GN=MVP PE=1 SV=4
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q15651	HUMAN High mobility group nucleosome-binding domain-containing protein 3 OS=Homo sapiens GN=HMGN3 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q53el6	HUMAN Programmed cell death protein 4 OS=Homo sapiens GN=PDCD4 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q6p2q9	HUMAN Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens GN=PRPF8 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q6phw0	HUMAN Iodotyrosine deiodinase 1 OS=Homo sapiens GN=IYD PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q8izf2	HUMAN Adhesion G protein-coupled receptor F5 OS=Homo sapiens GN=ADGRF5 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q8n108	HUMAN Mesoderm induction early response protein 1 OS=Homo sapiens GN=MIER1 PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q92622	HUMAN Run domain Beclin-1-interacting and cysteine-rich domain-containing protein OS=Homo sapiens GN=RUBCN PE=1 SV=4
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q96kj9	HUMAN Cytochrome c oxidase subunit 4 isoform 2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q96n64	HUMAN PWWP domain-containing protein 2A OS=Homo sapiens GN=PWWP2A PE=1 SV=2
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q9bud6	HUMAN Spondin-2 OS=Homo sapiens GN=SPON2 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q9bw71	HUMAN HIRA-interacting protein 3 OS=Homo sapiens GN=HIRIP3 PE=1 SV=3
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q9h159	HUMAN Cadherin-19 OS=Homo sapiens GN=CDH19 PE=2 SV=1
+H2B	HUMAN Histone H2B type F-S OS=Homo sapiens GN=H2BFS PE=1 SV=2	q9nvq4	HUMAN Fas apoptotic inhibitory molecule 1 OS=Homo sapiens GN=FAIM PE=1 SV=1
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	p52756	HUMAN Isoform 3 of RNA-binding protein 5 OS=Homo sapiens GN=RBM5
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	q14687	HUMAN Genetic suppressor element 1 OS=Homo sapiens GN=GSE1 PE=1 SV=3
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	q3sy52	HUMAN Zinc finger protein interacting with ribonucleoprotein K OS=Homo sapiens GN=ZIK1 PE=2 SV=1
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H2B	HUMAN Putative histone H2B type 2-C OS=Homo sapiens GN=HIST2H2BC PE=5 SV=3	q9y4d8	HUMAN Probable E3 ubiquitin-protein ligase HECTD4 OS=Homo sapiens GN=HECTD4 PE=1 SV=5
+H3	H3	b9ru15	Probable Histone-lysine N-methyltransferase ATXR5
+H3	H3	c4qz45	Transcription elongation factor 1 homolog
+H3	H3	c4r4y0	DNA-directed RNA polymerase subunit
+H3	H3	g0ryc6#g0sdw4	null#null
+H3	H3	g0s589	Actin related protein 5
+H3	H3	g0s590	Ies6
+H3	H3	g0s8h7	Polycomb Protein EED
+H3	H3	g0s8h7	putative polycomb protein EED
+H3	H3	g0s8h7	putative polycomb protein Eed
+H3	H3	i1n521	ATXR5 PHD domain
+H3	H3	j3qs39	Ubiquitin
+H3	H3	o14646	Chromodomain-helicase-DNA-binding protein 1
+H3	H3	o15016	Tripartite motif-containing protein 66
+H3	H3	o15054	Lysine-specific demethylase 6B
+H3	H3	o15164	Transcription intermediary factor 1-alpha
+H3	H3	o15392	Baculoviral IAP repeat-containing protein 5
+H3	H3	o15550	Lysine-specific demethylase 6A
+H3	H3	o41094	A612L protein
+H3	H3	o43189	PHD finger protein 1
+H3	H3	o60341	Lysine-specific histone demethylase 1A
+H3	H3	o60885	Bromodomain-containing protein 4
+H3	H3	o75164	Lysine-specific demethylase 4A
+H3	H3	o94953	Lysine-specific demethylase 4B
+H3	H3	o95619	YEATS domain-containing protein 4
+H3	H3	p05205	Heterochromatin protein 1
+H3	H3	p0aey0#q96h22	P0AEY0:#Maltose/maltodextrin-binding periplasmic protein#Q96H22:#Centromere protein N
+H3	H3	p21784	V(D)J recombination-activating protein 2
+H3	H3	p23497	Nuclear autoantigen Sp-100
+H3	H3	p26017	Polycomb group protein Pc
+H3	H3	p26358	DNA (cytosine-5)-methyltransferase 1
+H3	H3	p29375	Lysine-specific demethylase 5A
+H3	H3	p35189	Transcription initiation factor TFIID subunit 14
+H3	H3	p36124	SET domain-containing protein 3
+H3	H3	p42568	Protein AF-9
+H3	H3	p46100	Transcriptional regulator ATRX
+H3	H3	p48431	Transcription factor SOX-2
+H3	H3	p49736	DNA replication licensing factor MCM2
+H3	H3	p53930	Protein AF-9 homolog
+H3	H3	p55197	Protein AF-10
+H3	H3	p55201	Peregrin
+H3	H3	p59997	Lysine-specific demethylase 2A
+H3	H3	p61964	WD repeat-containing protein 5
+H3	H3	p62979	Ubiquitin-40S ribosomal protein S27a
+H3	H3	p63104	14-3-3 protein zeta/delta
+H3	H3	p83916	Chromobox protein homolog 1
+H3	H3	q03111	Protein ENL
+H3	H3	q03164	Histone-lysine N-methyltransferase 2A
+H3	H3	q03188	Centromere protein C
+H3	H3	q08945	FACT complex subunit SSRP1
+H3	H3	q12830	Nucleosome-remodeling factor subunit BPTF
+H3	H3	q13185	Chromobox protein homolog 3
+H3	H3	q14149	MORC family CW-type zinc finger protein 3
+H3	H3	q14839	Chromodomain-helicase-DNA-binding protein 4
+H3	H3	q15047	Histone-lysine N-methyltransferase SETDB1
+H3	H3	q15059	Bromodomain-containing protein 3
+H3	H3	q15910	Histone-lysine N-methyltransferase EZH2
+H3	H3	q1hvj0	Major tegument protein
+H3	H3	q24k09	DNA (cytosine-5)-methyltransferase 1
+H3	H3	q2lae1	Histone-lysine N-methyltransferase ASHH2
+H3	H3	q49a26	Putative oxidoreductase GLYR1
+H3	H3	q504y3	Zinc finger CW-type PWWP domain protein 2
+H3	H3	q56a73	Spindlin-4
+H3	H3	q5t6s3	PHD finger protein 19
+H3	H3	q5vwg9	Transcription initiation factor TFIID subunit 3
+H3	H3	q6b0i6	Lysine-specific demethylase 4D
+H3	H3	q6cit4	Histone-lysine N-methyltransferase, H3 lysine-4 specific
+H3	H3	q6pl18	ATPase family AAA domain-containing protein 2
+H3	H3	q7jxa8	Rhino
+H3	H3	q7z4v5	Hepatoma-derived growth factor-related protein 2
+H3	H3	q86uu0#q9brq0	Q86UU0:#B-cell CLL/lymphoma 9-like protein#Q9BRQ0:#Pygopus homolog 2
+H3	H3	q86x55	Histone-arginine methyltransferase CARM1
+H3	H3	q8ie47	NAD-dependent protein deacylase Sir2A
+H3	H3	q8iyh5	ZZ-type zinc finger-containing protein 3
+H3	H3	q8izd2	Inactive histone-lysine N-methyltransferase 2E
+H3	H3	q8n8u2	Chromodomain Y-like protein 2
+H3	H3	q8nb78	Lysine-specific histone demethylase 1B
+H3	H3	q8ncd3	Holliday junction recognition protein
+H3	H3	q8nez4	Histone-lysine N-methyltransferase 2C
+H3	H3	q8r5c8	Zinc finger MYND domain-containing protein 11
+H3	H3	q8tf76	Serine/threonine-protein kinase haspin
+H3	H3	q8wts6	Histone-lysine N-methyltransferase SETD7
+H3	H3	q8wyb5	Histone acetyltransferase KAT6B
+H3	H3	q8x225	Histone-lysine N-methyltransferase, H3 lysine-9 specific dim-5
+H3	H3	q92466	DNA damage-binding protein 2
+H3	H3	q92784	Zinc finger protein DPF3
+H3	H3	q92793	CREB-binding protein
+H3	H3	q92794	Histone acetyltransferase KAT6A
+H3	H3	q92973	Transportin-1
+H3	H3	q96bd5	PHD finger protein 21A
+H3	H3	q96eq9	Histone-lysine N-methyltransferase PRDM9
+H3	H3	q96h22	Centromere protein N
+H3	H3	q96ha7	Tonsoku-like protein
+H3	H3	q96kq7	Histone-lysine N-methyltransferase EHMT2
+H3	H3	q96t88	E3 ubiquitin-protein ligase UHRF1
+H3	H3	q99549	M-phase phosphoprotein 8
+H3	H3	q9axt8	DNA (cytosine-5)-methyltransferase 1
+H3	H3	q9btc0	Death-inducer obliterator 1
+H3	H3	q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1
+H3	H3	q9bvi0	PHD finger protein 20
+H3	H3	q9byw2	Histone-lysine N-methyltransferase SETD2
+H3	H3	q9bz95	Histone-lysine N-methyltransferase NSD3
+H3	H3	q9esu6	Bromodomain-containing protein 4
+H3	H3	q9fff5	PHD finger protein ALFIN-LIKE 1
+H3	H3	q9h0m4	Zinc finger CW-type PWWP domain protein 1
+H3	H3	q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+H3	H3	q9nvp2	Histone chaperone ASF1B
+H3	H3	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H3	H3	q9ubc3	DNA (cytosine-5)-methyltransferase 3B
+H3	H3	q9uer7	Death domain-associated protein 6
+H3	H3	q9uif9	Bromodomain adjacent to zinc finger domain protein 2A
+H3	H3	q9ulg1	Chromatin-remodeling ATPase INO80
+H3	H3	q9ulm3	YEATS domain-containing protein 2
+H3	H3	q9unl4	Inhibitor of growth protein 4
+H3	H3	q9upn9	E3 ubiquitin-protein ligase TRIM33
+H3	H3	q9upp1	Histone lysine demethylase PHF8
+H3	H3	q9vg78	Protein partner of snf, isoform A
+H3	H3	q9y294	Histone chaperone ASF1A
+H3	H3	q9y3e1	Hepatoma-derived growth factor-related protein 3
+H3	H3	q9y3y4	Pygopus homolog 1
+H3	H3	q9y483	Metal-response element-binding transcription factor 2
+H3	H3	q9y5b9	FACT complex subunit SPT16
+H3	H3	q9y657	Spindlin-1
+H3	H3	q9y6f8	Testis-specific chromodomain protein Y 1
+H3	H3	q9y6k1	DNA (cytosine-5)-methyltransferase 3A
+H3	H3	q9z1b8	PHD finger protein 1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	o14727	HUMAN Apoptotic protease-activating factor 1 OS=Homo sapiens GN=APAF1 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p02549	HUMAN Spectrin alpha chain
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p04275	HUMAN von Willebrand factor OS=Homo sapiens GN=VWF PE=1 SV=4
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p11388	HUMAN DNA topoisomerase 2-alpha OS=Homo sapiens GN=TOP2A PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p11532	HUMAN Dystrophin OS=Homo sapiens GN=DMD PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p25490	HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens GN=YY1 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p45973	HUMAN Chromobox protein homolog 5 OS=Homo sapiens GN=CBX5 PE=1 SV=1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p48741	HUMAN Putative heat shock 70 kDa protein 7 OS=Homo sapiens GN=HSPA7 PE=5 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p49959	HUMAN Double-strand break repair protein MRE11A OS=Homo sapiens GN=MRE11A PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p52948	HUMAN Nuclear pore complex protein Nup98-Nup96 OS=Homo sapiens GN=NUP98 PE=1 SV=4
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q14739	HUMAN Lamin-B receptor OS=Homo sapiens GN=LBR PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q32m45	HUMAN Anoctamin-4 OS=Homo sapiens GN=ANO4 PE=2 SV=1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q68dd2	HUMAN Cytosolic phospholipase A2 zeta OS=Homo sapiens GN=PLA2G4F PE=2 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q6in85	HUMAN Serine/threonine-protein phosphatase 4 regulatory subunit 3A OS=Homo sapiens GN=PPP4R3A PE=1 SV=1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q7z7g8	HUMAN Vacuolar protein sorting-associated protein 13B OS=Homo sapiens GN=VPS13B PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q8ivf4	HUMAN Dynein heavy chain 10
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q8n6m0	HUMAN OTU domain-containing protein 6B OS=Homo sapiens GN=OTUD6B PE=1 SV=1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q8ne71	HUMAN ATP-binding cassette sub-family F member 1 OS=Homo sapiens GN=ABCF1 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q92576	HUMAN PHD finger protein 3 OS=Homo sapiens GN=PHF3 PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q96bj8	HUMAN Engulfment and cell motility protein 3 OS=Homo sapiens GN=ELMO3 PE=1 SV=3
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q96j77	HUMAN Tumor protein D55 OS=Homo sapiens GN=TPD52L3 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q9ukx7	HUMAN Nuclear pore complex protein Nup50 OS=Homo sapiens GN=NUP50 PE=1 SV=2
+H3	HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3	q9y520	HUMAN Protein PRRC2C OS=Homo sapiens GN=PRRC2C PE=1 SV=4
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	o94933	HUMAN SLIT and NTRK-like protein 3 OS=Homo sapiens GN=SLITRK3 PE=2 SV=2
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1
+H3	HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3	q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1
+H3	HUMAN Histone H3.3 OS=Homo sapiens GN=H3F3A PE=1 SV=2	o60673	HUMAN DNA polymerase zeta catalytic subunit OS=Homo sapiens GN=REV3L PE=1 SV=2
+H4	H4		1A9D7 L chain
+H4	H4		1A9D7 VH CH1 chain
+H4	H4		2A7D9 L chain
+H4	H4		2A7D9 VH CH1 chain
+H4	H4	c4qz45	Transcription elongation factor 1 homolog
+H4	H4	f8w4b7	Histone deacetylase
+H4	H4	g0s589	Actin related protein 5
+H4	H4	o14686	Histone-lysine N-methyltransferase 2D
+H4	H4	o14744	Protein arginine N-methyltransferase 5
+H4	H4	o14929	Histone acetyltransferase type B catalytic subunit
+H4	H4	o15164	Transcription intermediary factor 1-alpha
+H4	H4	o60885	Bromodomain-containing protein 4
+H4	H4	o75164	Lysine-specific demethylase 4A
+H4	H4	o75530	Polycomb protein EED
+H4	H4	p21675	Transcription initiation factor TFIID subunit 1
+H4	H4	p49736	DNA replication licensing factor MCM2
+H4	H4	p55201	Peregrin
+H4	H4	p75960	NAD-dependent protein deacylase
+H4	H4	q03188	Centromere protein C
+H4	H4	q08945	FACT complex subunit SSRP1
+H4	H4	q12888	TP53-binding protein 1
+H4	H4	q16576	Histone-binding protein RBBP7
+H4	H4	q1hvj0	Major tegument protein
+H4	H4	q582g4	Protein arginine N-methyltransferase 7
+H4	H4	q6pl18	ATPase family AAA domain-containing protein 2
+H4	H4	q86uy6	N-alpha-acetyltransferase 40
+H4	H4	q8ik82	Bromodomain protein, putative
+H4	H4	q8ncd3	Holliday junction recognition protein
+H4	H4	q8nez4	Histone-lysine N-methyltransferase 2C
+H4	H4	q92784	Zinc finger protein DPF3
+H4	H4	q92793	CREB-binding protein
+H4	H4	q96h22	Centromere protein N
+H4	H4	q96ha7	Tonsoku-like protein
+H4	H4	q9h8m2	Bromodomain-containing protein 9
+H4	H4	q9nqr1	N-lysine methyltransferase KMT5A
+H4	H4	q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+H4	H4	q9nvp2	Histone chaperone ASF1B
+H4	H4	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+H4	H4	q9uer7	Death domain-associated protein 6
+H4	H4	q9y294	Histone chaperone ASF1A
+H4	H4	q9y468	Lethal(3)malignant brain tumor-like protein 1
+H4	H4	q9y5b9	FACT complex subunit SPT16
+H4	H4	q9y5n5	Methyltransferase N6AMT1
+H4	H4	q9y657	Spindlin-1
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	o75054	HUMAN Immunoglobulin superfamily member 3 OS=Homo sapiens GN=IGSF3 PE=2 SV=3
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p04275	HUMAN von Willebrand factor OS=Homo sapiens GN=VWF PE=1 SV=4
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p25490	HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens GN=YY1 PE=1 SV=2
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p45973	HUMAN Chromobox protein homolog 5 OS=Homo sapiens GN=CBX5 PE=1 SV=1
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p48741	HUMAN Putative heat shock 70 kDa protein 7 OS=Homo sapiens GN=HSPA7 PE=5 SV=2
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	q68de3	HUMAN Basic helix-loop-helix domain-containing protein USF3 OS=Homo sapiens GN=USF3 PE=1 SV=3
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	q86y22	HUMAN Collagen alpha-1(XXIII) chain OS=Homo sapiens GN=COL23A1 PE=1 SV=1
+H4	HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2	q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2
+c4qzq7	DNA-directed RNA polymerase subunit beta	a0a1b2jer8	Transcription elongation factor 1 homolog
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4qwa8	RNA polymerase subunit, found in RNA polymerase complexes I, II, and III
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4qy79	DNA-directed RNA polymerase subunit
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r009	RNA polymerase subunit ABC10-beta, common to RNA polymerases I, II, and III
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r0e6	Transcription elongation factor SPT4
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r2r6	General transcription elongation factor TFIIS
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r2u9	RNA polymerase II subunit B32
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r370	Protein that forms a complex with Spt4p
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r3z5	RNA polymerase II subunit B12.5
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r4y0	DNA-directed RNA polymerase subunit
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r7l2	RNA polymerase II third largest subunit B44, part of central core
+c4qzq7	DNA-directed RNA polymerase subunit beta	c4r9a1	RNA polymerase II subunit
+c4qzq7	DNA-directed RNA polymerase subunit beta	f2qmi1	RNA polymerase subunit ABC10-alpha
+c4qzq7	DNA-directed RNA polymerase subunit beta	f2qpe6	DNA-directed RNA polymerase subunit
+c4qzq7	DNA-directed RNA polymerase subunit beta	f2quc3	Spt4/5 complex component
+c4r4y0	DNA-directed RNA polymerase subunit	a0a1b2jer8	Transcription elongation factor 1 homolog
+c4r4y0	DNA-directed RNA polymerase subunit	c4qy79	DNA-directed RNA polymerase subunit
+c4r4y0	DNA-directed RNA polymerase subunit	c4qzq7	DNA-directed RNA polymerase subunit beta
+c4r4y0	DNA-directed RNA polymerase subunit	c4r1v1	RNA polymerase subunit ABC23, common to RNA polymerases I, II, and III
+c4r4y0	DNA-directed RNA polymerase subunit	c4r273	DNA-directed RNA polymerases I, II, and III subunit RPABC3
+c4r4y0	DNA-directed RNA polymerase subunit	c4r2r6	General transcription elongation factor TFIIS
+c4r4y0	DNA-directed RNA polymerase subunit	c4r2u9	RNA polymerase II subunit B32
+c4r4y0	DNA-directed RNA polymerase subunit	c4r370	Protein that forms a complex with Spt4p
+c4r4y0	DNA-directed RNA polymerase subunit	c4r3p8	RNA polymerase subunit ABC27, common to RNA polymerases I, II, and III
+c4r4y0	DNA-directed RNA polymerase subunit	c4r3z5	RNA polymerase II subunit B12.5
+c4r4y0	DNA-directed RNA polymerase subunit	c4r7l2	RNA polymerase II third largest subunit B44, part of central core
+c4r4y0	DNA-directed RNA polymerase subunit	c4r9a1	RNA polymerase II subunit
+c4r4y0	DNA-directed RNA polymerase subunit	f2qpe6	DNA-directed RNA polymerase subunit
+c4r4y0	DNA-directed RNA polymerase subunit	f2quc3	Spt4/5 complex component
+f8w4b7	Histone deacetylase		HC toxin
+f8w4b7	Histone deacetylase		alpha tubulin K40 tripeptide
+f8w4b7	Histone deacetylase	f8w4b7	Histone deacetylase
+g0ryc2	RuvB-like helicase		Ino80
+g0ryc2	RuvB-like helicase	g0ry01	les2
+g0ryc2	RuvB-like helicase	g0ryc2	RuvB-like helicase
+g0ryc2	RuvB-like helicase	g0ryi5	RuvB-like helicase
+g0ryc2	RuvB-like helicase	g0s590	les6
+g0ryc6#g0sdw4	null#null	g0s8h7	Polycomb Protein EED
+g0ryc6#g0sdw4	null#null	g0s8h7	putative polycomb protein Eed
+g0s589	Arp5	g0ryi5	RuvB-like helicase
+g0s589	Arp5	g0s590	les6
+g0s590	les6	g0ryc2	RuvB-like helicase
+g0s590	les6	g0ryi5	RuvB-like helicase
+g0s590	les6	g0s589	Arp5
+g0s8h7	Polycomb Protein EED	g0ryc6#g0sdw4	null#null
+g0s8h7	putative polycomb protein Eed	g0ryc6#g0sdw4	null#null
+j3qs39	Ubiquitin	b0b999	Deubiquitinase and deneddylase Dub2
+j3qs39	Ubiquitin-propargylamide	p0dtd1	Replicase polyprotein 1ab
+o14646	Chromodomain-helicase-DNA-binding protein 1	o14646	Chromodomain-helicase-DNA-binding protein 1
+o14646	Chromodomain-helicase-DNA-binding protein 1	o60341	Lysine-specific histone demethylase 1A
+o14646	Chromodomain-helicase-DNA-binding protein 1	p03495	Non-structural protein 1
+o14646	Chromodomain-helicase-DNA-binding protein 1	q38sq2	Non-structural protein 1
+o14662	HUMAN Syntaxin-16 OS=Homo sapiens GN=STX16 PE=1 SV=3	o95238	HUMAN SAM pointed domain-containing Ets transcription factor OS=Homo sapiens GN=SPDEF PE=1 SV=1
+o14686	Histone-lysine N-methyltransferase 2D	p61964	WD repeat-containing protein 5
+o14744	Protein arginine N-methyltransferase 5	o14744	Protein arginine N-methyltransferase 5
+o14744	Protein arginine N-methyltransferase 5	q9bqa1	Methylosome protein 50
+o15164	Transcription intermediary factor 1-alpha	o15164	Transcription intermediary factor 1-alpha
+o15392	Baculoviral IAP repeat-containing protein 5	o15392	Baculoviral IAP repeat-containing protein 5
+o15392	Baculoviral IAP repeat-containing protein 5	q53hl2	Borealin
+o15392	Baculoviral IAP repeat-containing protein 5	q5fbb7	Shugoshin 1
+o15392	Baculoviral IAP repeat-containing protein 5	q9nqs7	Inner centromere protein
+o15392	Baculoviral IAP repeat-containing protein 5	q9nr28	Diablo homolog, mitochondrial
+o41094	A612L protein	o41094	A612L protein
+o43295	HUMAN SLIT-ROBO Rho GTPase-activating protein 3 OS=Homo sapiens GN=SRGAP3 PE=1 SV=3	p60903	HUMAN Protein S100-A10 OS=Homo sapiens GN=S100A10 PE=1 SV=2
+o43791	Speckle-type POZ protein		CiSBC2
+o43791	Speckle-type POZ protein		PucSBC1
+o43791	Speckle-type POZ protein		Puckered
+o43791	Speckle-type POZ protein	o43791	Speckle-type POZ protein
+o43791	Speckle-type POZ protein	p19538	Transcriptional activator cubitus interruptus
+o43791	Speckle-type POZ protein	p52945	Pancreas/duodenum homeobox protein 1
+o43791	Speckle-type POZ protein	p60484	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+o43791	Speckle-type POZ protein	p70118	Pancreas/duodenum homeobox protein 1
+o43791	Speckle-type POZ protein	q13618	Cullin-3
+o43791	Speckle-type POZ protein	q15059	Bromodomain-containing protein 3
+o43791	Speckle-type POZ protein	q9vhv8	Puckered
+o60341	Lysine-specific histone demethylase 1A		ALA-ARG-(D)LYS-MET-GLN-GLU-ALA-ARG-LYS-SER-THR
+o60341	Lysine-specific histone demethylase 1A		PEPTIDE
+o60341	Lysine-specific histone demethylase 1A		PKSFLV PEPTIDE
+o60341	Lysine-specific histone demethylase 1A		Polmyxin B
+o60341	Lysine-specific histone demethylase 1A		polymyxin E
+o60341	Lysine-specific histone demethylase 1A	o14646	Chromodomain-helicase-DNA-binding protein 1
+o60341	Lysine-specific histone demethylase 1A	o60341	Lysine-specific histone demethylase 1A
+o60341	Lysine-specific histone demethylase 1A	o95863	Zinc finger protein SNAI1
+o60341	Lysine-specific histone demethylase 1A	q01101	Insulinoma-associated protein 1
+o60341	Lysine-specific histone demethylase 1A	q9p2k3	REST corepressor 3
+o60341	Lysine-specific histone demethylase 1A	q9ukl0	REST corepressor 1
+o60885	Bromodomain-containing protein 4	o43524	Forkhead box protein O3
+o60885	Bromodomain-containing protein 4	o60885	Bromodomain-containing protein 4
+o60885	Bromodomain-containing protein 4	p03120	Regulatory protein E2
+o60885	Bromodomain-containing protein 4	p11388	DNA topoisomerase 2-alpha
+o60885	Bromodomain-containing protein 4	p15976	Erythroid transcription factor
+o60885	Bromodomain-containing protein 4	p24928	DNA-directed RNA polymerase II subunit RPB1
+o60885	Bromodomain-containing protein 4	p40337	von Hippel-Lindau disease tumor suppressor
+o60885	Bromodomain-containing protein 4	p46100	Transcriptional regulator ATRX
+o60885	Bromodomain-containing protein 4	q01094	Transcription factor E2F1
+o60885	Bromodomain-containing protein 4	q04206	Transcription factor p65
+o60885	Bromodomain-containing protein 4	q15672	Twist-related protein 1
+o60885	Bromodomain-containing protein 4	q6nyc1	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6
+o60885	Bromodomain-containing protein 4	q8un00	MLV integrase
+o60885	Bromodomain-containing protein 4	q96sb4	SRSF protein kinase 1
+o60885	Bromodomain-containing protein 4	q96sw2	Protein cereblon
+o60885	Bromodomain-containing protein 4	q9bz95	Histone-lysine N-methyltransferase NSD3
+o60885	Bromodomain-containing protein 4	q9nrc8	NAD-dependent protein deacetylase sirtuin-7
+o60885	Bromodomain-containing protein 4	q9qr71	Protein LANA1
+o60885	Bromodomain-containing protein 4	q9uig0	Tyrosine-protein kinase BAZ1B
+o75054	HUMAN Immunoglobulin superfamily member 3 OS=Homo sapiens GN=IGSF3 PE=2 SV=3	p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3
+o75054	HUMAN Immunoglobulin superfamily member 3 OS=Homo sapiens GN=IGSF3 PE=2 SV=3	q00341	HUMAN Vigilin OS=Homo sapiens GN=HDLBP PE=1 SV=2
+o75164	Lysine-specific demethylase 4A		CP2
+o75164	Lysine-specific demethylase 4A		CP2_R6Kme3
+o75164	Lysine-specific demethylase 4A		peptide
+o75164	Lysine-specific demethylase 4A	o75164	Lysine-specific demethylase 4A
+o75521	HUMAN Enoyl-CoA delta isomerase 2	q96bi1	HUMAN Solute carrier family 22 member 18 OS=Homo sapiens GN=SLC22A18 PE=1 SV=3
+o75530	Polycomb protein EED		ALA-GLN-ARG-M3L-PHE-ALA-GLN-SER
+o75530	Polycomb protein EED		EB22
+o75530	Polycomb protein EED		UNC4859
+o75530	Polycomb protein EED	g1kph4	Enhancer of Zeste Homolog 2 (EZH2),Histone-lysine N-methyltransferase EZH2
+o75530	Polycomb protein EED	g1kph4	Enhancer of zeste 2 polycomb repressive complex 2 subunit
+o75530	Polycomb protein EED	g1kph4	Enhancer of zeste 2 polycomb repressive complex 2 subunit,Enhancer of zeste 2 polycomb repressive complex 2 subunit
+o75530	Polycomb protein EED	o75530	Polycomb protein EED
+o75530	Polycomb protein EED	q09028	Histone-binding protein RBBP4
+o75530	Polycomb protein EED	q15022	Polycomb protein SUZ12
+o75530	Polycomb protein EED	q15022#q15910	Q15022:#Polycomb protein SUZ12#Q15910:#Histone-lysine N-methyltransferase EZH2
+o75530	Polycomb protein EED	q15910	Histone-lysine N-methyltransferase EZH2
+o75530	Polycomb protein EED	q6zn18	Zinc finger protein AEBP2
+o75530	Polycomb protein EED	q92833	Protein Jumonji
+o75844	HUMAN CAAX prenyl protease 1 homolog OS=Homo sapiens GN=ZMPSTE24 PE=1 SV=2	a4d263	HUMAN Uncharacterized protein C7orf72 OS=Homo sapiens GN=C7orf72 PE=4 SV=2
+o94953	Lysine-specific demethylase 4B	o94953	Lysine-specific demethylase 4B
+o95425	HUMAN Supervillin OS=Homo sapiens GN=SVIL PE=1 SV=2	q02878	HUMAN 60S ribosomal protein L6 OS=Homo sapiens GN=RPL6 PE=1 SV=3
+p01903	HLA class II histocompatibility antigen, DR alpha chain		DIPEPTIDE MIMETIC INHIBITOR
+p01903	HLA class II histocompatibility antigen, DR alpha chain		ENDOGENOUS PEPTIDE MODEL, POLY-ALA
+p01903	HLA class II histocompatibility antigen, DR alpha chain		F11-TCR Alpha Chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain		F11-TCR Beta Chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain		FS17_alpha
+p01903	HLA class II histocompatibility antigen, DR alpha chain		FS17_beta
+p01903	HLA class II histocompatibility antigen, DR alpha chain		FS18_beta
+p01903	HLA class II histocompatibility antigen, DR alpha chain		HA peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		HLA class II histocompatibility antigen, DRB1-4 beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain		Hemagglutinin peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		INHIBITOR
+p01903	HLA class II histocompatibility antigen, DR alpha chain		M1-208-222-QAR-Peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		MHC class II antigen
+p01903	HLA class II histocompatibility antigen, DR alpha chain		OB TCR
+p01903	HLA class II histocompatibility antigen, DR alpha chain		PB1-410-422-GMF-Peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		PEPTIDOMIMETIC INHIBITOR
+p01903	HLA class II histocompatibility antigen, DR alpha chain		PROTEIN (PEPTIDOMIMETIC INHIBITOR)
+p01903	HLA class II histocompatibility antigen, DR alpha chain		Synthetic peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		T cell receptor G4 alpha chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain		T cell receptor G4 beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain		haemagglutinin peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		mimotope peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain		truncated hemagglutinin peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain	a0a0b4j272	T cell receptor alpha variable 24
+p01903	HLA class II histocompatibility antigen, DR alpha chain	a0a0g2jmb4	F5 beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	a0a5b9	T cell receptor beta constant 2
+p01903	HLA class II histocompatibility antigen, DR alpha chain	a8cdu0	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	b8yac7	MHC class II antigen
+p01903	HLA class II histocompatibility antigen, DR alpha chain	l7mtk9	Ani2.3 TCR A chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	l7mtl0	Ani2.3 TCR B chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01308	Insulin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01552	Enterotoxin type B
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01730	T-cell surface glycoprotein CD4
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01848	T cell receptor alpha constant
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01850	T cell receptor beta constant 1
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01903	HLA class II histocompatibility antigen, DR alpha chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p01911#p04233	P01911:#HLA class II histocompatibility antigen, DRB1-15 beta chain#P04233:#HLA class II histocompatibility antigen gamma chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p02458	Collagen alpha-1(II) chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p02675	Fibrinogen beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p02686	Myelin basic protein
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p03198	DNA polymerase catalytic subunit
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p03435	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p03437	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p04233	HLA class II histocompatibility antigen gamma chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p04439	HLA class I histocompatibility antigen, A-3 alpha chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p04585	Gag-Pol polyprotein
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p04664	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p05106	Integrin beta-3
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p05777	Matrix protein 1
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p06733	Alpha-enolase
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p08670	Vimentin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p0a0l2	Enterotoxin type A
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p0a0l3	Enterotoxin type C-3
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p0a0l5	Enterotoxin type C-3
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p0a0m0	Enterotoxin type H
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p11133	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p12495	Gag polyprotein
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p16112	Aggrecan core protein
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p27705	Regulatory protein MIG1
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p28067	HLA class II histocompatibility antigen, DM alpha chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p28068	HLA class II histocompatibility antigen, DM beta chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p40967	Melanocyte protein PMEL
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p49913	Cathelicidin antimicrobial peptide
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p60174	Triosephosphate isomerase
+p01903	HLA class II histocompatibility antigen, DR alpha chain	p79483	HLA class II histocompatibility antigen, DR beta 3 chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q03909	Hemagglutinin
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q05639	Elongation factor 1-alpha 2
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q13641	Trophoblast glycoprotein
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q16655	Melanoma antigen recognized by T-cells 1
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q30154	HLA class II histocompatibility antigen, DR beta 5 chain
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q48898	Mycoplasma arthritidis mitogen
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q48898	Superantigen
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q48898	superantigen
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q8nkx2	Exotoxin type C
+p01903	HLA class II histocompatibility antigen, DR alpha chain	q91ls8	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		DIPEPTIDE MIMETIC INHIBITOR
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		ENDOGENOUS PEPTIDE MODEL, POLY-ALA
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		FS17_beta
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		FS18_beta
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		HA peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		Hemagglutinin peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		INHIBITOR
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		OB TCR
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		PEPTIDOMIMETIC INHIBITOR
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		PROTEIN (PEPTIDOMIMETIC INHIBITOR)
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		Synthetic peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		T cell receptor G4 alpha chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		T cell receptor G4 beta chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		haemagglutinin peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain		truncated hemagglutinin peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	a0a0b4j272	T cell receptor alpha variable 24
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	a0a0g2jmb4	F5 beta chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	a0a5b9	T cell receptor beta constant 2
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	a8cdu0	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01308	Insulin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01730	T-cell surface glycoprotein CD4
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01848	T cell receptor alpha constant
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01850	T cell receptor beta constant 1
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01903	HLA class II histocompatibility antigen, DR alpha chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p02458	Collagen alpha-1(II) chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p02675	Fibrinogen beta chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p02686	Myelin basic protein
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p03205	Glycoprotein 42
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p03437	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p04233	HLA class II histocompatibility antigen gamma chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p04439	HLA class I histocompatibility antigen, A-3 alpha chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p04585	Gag-Pol polyprotein
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p04664	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p06733	Alpha-enolase
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p08670	Vimentin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p0a0l5	Enterotoxin type C-3
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p0a0m0	Enterotoxin type H
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p11133	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p12495	Gag polyprotein
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p16112	Aggrecan core protein
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p27705	Regulatory protein MIG1
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p28068	HLA class II histocompatibility antigen, DM beta chain
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p40967	Melanocyte protein PMEL
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p49913	Cathelicidin antimicrobial peptide
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	p60174	Triosephosphate isomerase
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q03909	Hemagglutinin
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q13641	Trophoblast glycoprotein
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q16655	Melanoma antigen recognized by T-cells 1
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q48898	Mycoplasma arthritidis mitogen
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q48898	Superantigen
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q48898	superantigen
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q52t95	extracellular enterotoxin type I
+p01911	HLA class II histocompatibility antigen, DRB1-15 beta chain	q91ls8	Hemagglutinin
+p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	o75379	HUMAN Vesicle-associated membrane protein 4 OS=Homo sapiens GN=VAMP4 PE=1 SV=2
+p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	p20700	HUMAN Lamin-B1 OS=Homo sapiens GN=LMNB1 PE=1 SV=2
+p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	q6zvc0	HUMAN Neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adapter 1 OS=Homo sapiens GN=NYAP1 PE=2 SV=1
+p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	q86y22	HUMAN Collagen alpha-1(XXIII) chain OS=Homo sapiens GN=COL23A1 PE=1 SV=1
+p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1	q9ule6	HUMAN Paladin OS=Homo sapiens GN=PALD1 PE=1 SV=3
+p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3	a2vck2	HUMAN Doublecortin domain-containing protein 2B OS=Homo sapiens GN=DCDC2B PE=1 SV=1
+p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3	q12955	HUMAN Ankyrin-3 OS=Homo sapiens GN=ANK3 PE=1 SV=3
+p05114	HUMAN Non-histone chromosomal protein HMG-14 OS=Homo sapiens GN=HMGN1 PE=1 SV=3	q8ix01	HUMAN SURP and G-patch domain-containing protein 2 OS=Homo sapiens GN=SUGP2 PE=1 SV=2
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	o43711	HUMAN T-cell leukemia homeobox protein 3 OS=Homo sapiens GN=TLX3 PE=1 SV=3
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	p10916	HUMAN Myosin regulatory light chain 2
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q6ibs0	HUMAN Twinfilin-2 OS=Homo sapiens GN=TWF2 PE=1 SV=2
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q8n5m1	HUMAN ATP synthase mitochondrial F1 complex assembly factor 2 OS=Homo sapiens GN=ATPAF2 PE=1 SV=1
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q8nf91	HUMAN Nesprin-1 OS=Homo sapiens GN=SYNE1 PE=1 SV=4
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q8td26	HUMAN Chromodomain-helicase-DNA-binding protein 6 OS=Homo sapiens GN=CHD6 PE=1 SV=4
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q96t55	HUMAN Potassium channel subfamily K member 16 OS=Homo sapiens GN=KCNK16 PE=1 SV=1
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q9bsl1	HUMAN Ubiquitin-associated domain-containing protein 1 OS=Homo sapiens GN=UBAC1 PE=1 SV=1
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q9h4a3	HUMAN Serine/threonine-protein kinase WNK1 OS=Homo sapiens GN=WNK1 PE=1 SV=2
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q9h7b2	HUMAN Ribosome production factor 2 homolog OS=Homo sapiens GN=RPF2 PE=1 SV=2
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q9nr99	HUMAN Matrix-remodeling-associated protein 5 OS=Homo sapiens GN=MXRA5 PE=2 SV=3
+p05204	HUMAN Non-histone chromosomal protein HMG-17 OS=Homo sapiens GN=HMGN2 PE=1 SV=3	q9y6v0	HUMAN Protein piccolo OS=Homo sapiens GN=PCLO PE=1 SV=4
+p05205	Heterochromatin protein 1	p05205	Heterochromatin protein 1
+p09874	HUMAN Poly [ADP-ribose] polymerase 1 OS=Homo sapiens GN=PARP1 PE=1 SV=4	p15822	HUMAN Zinc finger protein 40 OS=Homo sapiens GN=HIVEP1 PE=1 SV=3
+p0cg47	Polyubiquitin-B		D-ubiquitin
+p0cg47	Polyubiquitin-B		K6-specific affimer
+p0cg47	Polyubiquitin-B		substrate
+p0cg47	Polyubiquitin-B	b0b9a0	Deubiquitinase and deneddylase Dub1
+p0cg47	Polyubiquitin-B	b9g207	Ubiquitin thioesterase
+p0cg47	Polyubiquitin-B	c4qy61	Ubiquitin carboxyl-terminal hydrolase
+p0cg47	Polyubiquitin-B	e0viu9	E3 ubiquitin-protein ligase parkin
+p0cg47	Polyubiquitin-B	k9n7c7	Replicase polyprotein 1ab
+p0cg47	Polyubiquitin-B	o00487	26S proteasome non-ATPase regulatory subunit 14
+p0cg47	Polyubiquitin-B	o15151	Protein Mdm4
+p0cg47	Polyubiquitin-B	o60260	E3 ubiquitin-protein ligase parkin
+p0cg47	Polyubiquitin-B	o75317	Ubiquitin carboxyl-terminal hydrolase 12
+p0cg47	Polyubiquitin-B	o75604	Ubiquitin carboxyl-terminal hydrolase 2
+p0cg47	Polyubiquitin-B	o76064	E3 ubiquitin-protein ligase RNF8
+p0cg47	Polyubiquitin-B	p06654#q9una4	P06654:#Immunoglobulin G-binding protein G#Q9UNA4:#DNA polymerase iota
+p0cg47	Polyubiquitin-B	p0c6x7	Replicase polyprotein 1ab
+p0cg47	Polyubiquitin-B	p0c6x9	Replicase polyprotein 1ab
+p0cg47	Polyubiquitin-B	p0cg47	Polyubiquitin-B
+p0cg47	Polyubiquitin-B	p0cg48	Polyubiquitin-C
+p0cg47	Polyubiquitin-B	p15374	Ubiquitin carboxyl-terminal hydrolase isozyme L3
+p0cg47	Polyubiquitin-B	p17980	26S proteasome regulatory subunit 6A
+p0cg47	Polyubiquitin-B	p21580	Tumor necrosis factor alpha-induced protein 3
+p0cg47	Polyubiquitin-B	p26358	DNA (cytosine-5)-methyltransferase 1
+p0cg47	Polyubiquitin-B	p36406	E3 ubiquitin-protein ligase TRIM23
+p0cg47	Polyubiquitin-B	p38886	26S proteasome regulatory subunit RPN10
+p0cg47	Polyubiquitin-B	p40087	DNA damage-inducible protein 1
+p0cg47	Polyubiquitin-B	p51668	Ubiquitin-conjugating enzyme E2 D1
+p0cg47	Polyubiquitin-B	p54578	Ubiquitin carboxyl-terminal hydrolase 14
+p0cg47	Polyubiquitin-B	p54725	UV excision repair protein RAD23 homolog A
+p0cg47	Polyubiquitin-B	p55036	26S proteasome non-ATPase regulatory subunit 4
+p0cg47	Polyubiquitin-B	p61077	Ubiquitin-conjugating enzyme E2 D3
+p0cg47	Polyubiquitin-B	p61086	Ubiquitin-conjugating enzyme E2 K
+p0cg47	Polyubiquitin-B	p61088	Ubiquitin-conjugating enzyme E2 N
+p0cg47	Polyubiquitin-B	p62068	Ubiquitin carboxyl-terminal hydrolase 46
+p0cg47	Polyubiquitin-B	p62333	26S proteasome regulatory subunit 10B
+p0cg47	Polyubiquitin-B	p62837	Ubiquitin-conjugating enzyme E2 D2
+p0cg47	Polyubiquitin-B	p63208	S-phase kinase-associated protein 1
+p0cg47	Polyubiquitin-B	p68036	Ubiquitin-conjugating enzyme E2 L3
+p0cg47	Polyubiquitin-B	q00987	E3 ubiquitin-protein ligase Mdm2
+p0cg47	Polyubiquitin-B	q13200	26S proteasome non-ATPase regulatory subunit 2
+p0cg47	Polyubiquitin-B	q13490	Baculoviral IAP repeat-containing protein 2
+p0cg47	Polyubiquitin-B	q14258	E3 ubiquitin/ISG15 ligase TRIM25
+p0cg47	Polyubiquitin-B	q16186	Proteasomal ubiquitin receptor ADRM1
+p0cg47	Polyubiquitin-B	q16763	Ubiquitin-conjugating enzyme E2 S
+p0cg47	Polyubiquitin-B	q3byj5	Xanthomonas outer protein D
+p0cg47	Polyubiquitin-B	q45tr8	Ubiquitin
+p0cg47	Polyubiquitin-B	q59ff6	Excision repair cross-complementing rodent repair deficiency, complementation group 6 variant
+p0cg47	Polyubiquitin-B	q6gqq9	OTU domain-containing protein 7B
+p0cg47	Polyubiquitin-B	q6iwl4	TNF receptor-associated factor 6
+p0cg47	Polyubiquitin-B	q6p4r8	Nuclear factor related to kappa-B-binding protein
+p0cg47	Polyubiquitin-B	q6r3m4	DNA polymerase iota
+p0cg47	Polyubiquitin-B	q6rcr0	SdeA
+p0cg47	Polyubiquitin-B	q6rcr4	SidC
+p0cg47	Polyubiquitin-B	q6tqr6	RNA-directed RNA polymerase L
+p0cg47	Polyubiquitin-B	q6zsg1	E3 ubiquitin-protein ligase RNF165
+p0cg47	Polyubiquitin-B	q70cq3	Ubiquitin carboxyl-terminal hydrolase 30
+p0cg47	Polyubiquitin-B	q7z6z7	E3 ubiquitin-protein ligase HUWE1
+p0cg47	Polyubiquitin-B	q86vp1	Tax1-binding protein 1
+p0cg47	Polyubiquitin-B	q8nhm5	Lysine-specific demethylase 2B
+p0cg47	Polyubiquitin-B	q8tac2	Josephin-2
+p0cg47	Polyubiquitin-B	q8taf3	WD repeat-containing protein 48
+p0cg47	Polyubiquitin-B	q8tbb1	E3 ubiquitin-protein ligase LNX
+p0cg47	Polyubiquitin-B	q93009	Ubiquitin carboxyl-terminal hydrolase 7
+p0cg47	Polyubiquitin-B	q969h0	F-box/WD repeat-containing protein 7
+p0cg47	Polyubiquitin-B	q96ap4	Zinc finger-containing ubiquitin peptidase 1
+p0cg47	Polyubiquitin-B	q96ep0	E3 ubiquitin-protein ligase RNF31
+p0cg47	Polyubiquitin-B	q96ru2	Ubiquitin carboxyl-terminal hydrolase 28
+p0cg47	Polyubiquitin-B	q9hau4	E3 ubiquitin-protein ligase SMURF2
+p0cg47	Polyubiquitin-B	q9ns91	E3 ubiquitin-protein ligase RAD18
+p0cg47	Polyubiquitin-B	q9nyg5	Anaphase-promoting complex subunit 11
+p0cg47	Polyubiquitin-B	q9p2h5	Ubiquitin carboxyl-terminal hydrolase 35
+p0cg47	Polyubiquitin-B	q9p371	AMSH-like protease sst2
+p0cg47	Polyubiquitin-B	q9ubn7	Histone deacetylase 6
+p0cg47	Polyubiquitin-B	q9ubz9	DNA repair protein REV1
+p0cg47	Polyubiquitin-B	q9uk80	Ubiquitin carboxyl-terminal hydrolase 21
+p0cg47	Polyubiquitin-B	q9um54	Unconventional myosin-VI
+p0cg47	Polyubiquitin-B	q9wup7	Ubiquitin carboxyl-terminal hydrolase isozyme L5
+p0cg47	Polyubiquitin-B	q9y2k7	Lysine-specific demethylase 2A
+p0cg47	Polyubiquitin-B	q9y5k5	Ubiquitin carboxyl-terminal hydrolase isozyme L5
+p11388	HUMAN DNA topoisomerase 2-alpha OS=Homo sapiens GN=TOP2A PE=1 SV=3	o60231	HUMAN Putative pre-mRNA-splicing factor ATP-dependent RNA helicase DHX16 OS=Homo sapiens GN=DHX16 PE=1 SV=2
+p14350	Pro-Pol polyprotein	p14350	Pro-Pol polyprotein
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	o14974	HUMAN Protein phosphatase 1 regulatory subunit 12A OS=Homo sapiens GN=PPP1R12A PE=1 SV=1
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	o15072	HUMAN A disintegrin and metalloproteinase with thrombospondin motifs 3 OS=Homo sapiens GN=ADAMTS3 PE=2 SV=4
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	o60447	HUMAN Ecotropic viral integration site 5 protein homolog OS=Homo sapiens GN=EVI5 PE=1 SV=3
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q14693	HUMAN Phosphatidate phosphatase LPIN1 OS=Homo sapiens GN=LPIN1 PE=1 SV=2
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q5vys4	HUMAN Isoform 2 of Mesenteric estrogen-dependent adipogenesis protein OS=Homo sapiens GN=MEDAG
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q86xr2	HUMAN Isoform 5 of Niban-like protein 2 OS=Homo sapiens GN=FAM129C
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q8tej3	HUMAN SH3 domain-containing RING finger protein 3 OS=Homo sapiens GN=SH3RF3 PE=1 SV=2
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q9hd67	HUMAN Unconventional myosin-X OS=Homo sapiens GN=MYO10 PE=1 SV=3
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q9ubt6	HUMAN DNA polymerase kappa OS=Homo sapiens GN=POLK PE=1 SV=1
+p14625	HUMAN Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1	q9y2b0	HUMAN Protein canopy homolog 2 OS=Homo sapiens GN=CNPY2 PE=1 SV=1
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	o00763	HUMAN Acetyl-CoA carboxylase 2 OS=Homo sapiens GN=ACACB PE=1 SV=3
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	p40222	HUMAN Alpha-taxilin OS=Homo sapiens GN=TXLNA PE=1 SV=3
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	p49796	HUMAN Regulator of G-protein signaling 3 OS=Homo sapiens GN=RGS3 PE=1 SV=2
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	p78316	HUMAN Nucleolar protein 14 OS=Homo sapiens GN=NOP14 PE=1 SV=3
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	q13889	HUMAN General transcription factor IIH subunit 3 OS=Homo sapiens GN=GTF2H3 PE=1 SV=2
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	q5bkx8	HUMAN Muscle-related coiled-coil protein OS=Homo sapiens GN=MURC PE=1 SV=2
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	q92576	HUMAN PHD finger protein 3 OS=Homo sapiens GN=PHF3 PE=1 SV=3
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	q92835	HUMAN Phosphatidylinositol 3
+p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3	q96t58	HUMAN Msx2-interacting protein OS=Homo sapiens GN=SPEN PE=1 SV=1
+p17693	HLA class I histocompatibility antigen, alpha chain G		KGPPAALTL peptide
+p17693	HLA class I histocompatibility antigen, alpha chain G		KLPAQFYIL peptide
+p17693	HLA class I histocompatibility antigen, alpha chain G	p13747	HLA class I histocompatibility antigen, alpha chain E
+p17693	HLA class I histocompatibility antigen, alpha chain G	p26715	NKG2-A/NKG2-B type II integral membrane protein
+p17693	HLA class I histocompatibility antigen, alpha chain G	p61769	Beta-2-microglobulin
+p17693	HLA class I histocompatibility antigen, alpha chain G	q13241	Natural killer cells antigen CD94
+p21675	Transcription initiation factor TFIID subunit 1	p20226	TATA-box-binding protein
+p21675	Transcription initiation factor TFIID subunit 1	q15544	Transcription initiation factor TFIID subunit 11
+p21675	Transcription initiation factor TFIID subunit 1	q15545	Transcription initiation factor TFIID subunit 7
+p21675	Transcription initiation factor TFIID subunit 1	q6p1x5	Transcription initiation factor TFIID subunit 2
+p21675	Transcription initiation factor TFIID subunit 1	q9y294	Histone chaperone ASF1A
+p21784	V(D)J recombination-activating protein 2	p15919	V(D)J recombination-activating protein 1
+p25490	HUMAN Transcriptional repressor protein YY1 OS=Homo sapiens GN=YY1 PE=1 SV=2	q9uqe7	HUMAN Structural maintenance of chromosomes protein 3 OS=Homo sapiens GN=SMC3 PE=1 SV=2
+p26358	DNA (cytosine-5)-methyltransferase 1	p0cg47	Polyubiquitin-B
+p26358	DNA (cytosine-5)-methyltransferase 1	p12004	Proliferating cell nuclear antigen
+p26358	DNA (cytosine-5)-methyltransferase 1	q93009	Ubiquitin carboxyl-terminal hydrolase 7
+p29375	Lysine-specific demethylase 5A		Lysine-specific demethylase 5A
+p29375	Lysine-specific demethylase 5A		Unknown Peptide
+p29375	Lysine-specific demethylase 5A	p29375	Lysine-specific demethylase 5A
+p35189	Transcription initiation factor TFIID subunit 14	p04050	DNA-directed RNA polymerase II subunit RPB1
+p35189	Transcription initiation factor TFIID subunit 14	p08518	DNA-directed RNA polymerase II subunit RPB2
+p35189	Transcription initiation factor TFIID subunit 14	p27999	DNA-directed RNA polymerase II subunit RPB9
+p35189	Transcription initiation factor TFIID subunit 14	p41895	Transcription initiation factor IIF subunit alpha
+p35499	HUMAN Sodium channel protein type 4 subunit alpha OS=Homo sapiens GN=SCN4A PE=1 SV=4	q13217	HUMAN DnaJ homolog subfamily C member 3 OS=Homo sapiens GN=DNAJC3 PE=1 SV=1
+p42568	Protein AF-9		Peptide inhibitor PHQ-H3(Q5-K9)
+p42568	Protein AF-9	q6w2j9	BCL-6 corepressor
+p42568	Protein AF-9	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific
+p42568	Protein AF-9	q9hc52	Chromobox protein homolog 8
+p46087	HUMAN Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase OS=Homo sapiens GN=NOP2 PE=1 SV=2	q9y221	HUMAN 60S ribosome subunit biogenesis protein NIP7 homolog OS=Homo sapiens GN=NIP7 PE=1 SV=1
+p46100	Transcriptional regulator ATRX	o60885	Bromodomain-containing protein 4
+p46100	Transcriptional regulator ATRX	q9uer7	Death domain-associated protein 6
+p49736	DNA replication licensing factor MCM2	o00311	Cell division cycle 7-related protein kinase
+p49736	DNA replication licensing factor MCM2	o75419	Cell division control protein 45 homolog
+p49736	DNA replication licensing factor MCM2	p25205	DNA replication licensing factor MCM3
+p49736	DNA replication licensing factor MCM2	p33992	DNA replication licensing factor MCM5
+p49736	DNA replication licensing factor MCM2	q14566	DNA replication licensing factor MCM6
+p49736	DNA replication licensing factor MCM2	q9ubu7	Protein DBF4 homolog A
+p50914	HUMAN 60S ribosomal protein L14 OS=Homo sapiens GN=RPL14 PE=1 SV=4	q86ug4	HUMAN Solute carrier organic anion transporter family member 6A1 OS=Homo sapiens GN=SLCO6A1 PE=2 SV=2
+p53930	Protein AF-9 homolog	p53930	Protein AF-9 homolog
+p55197	Protein AF-10	f1q4w7	Histone-lysine N-methyltransferase, H3 lysine-79 specific
+p55197	Protein AF-10	p55197	Protein AF-10
+p55197	Protein AF-10	q8tek3	Histone-lysine N-methyltransferase, H3 lysine-79 specific
+p61964	WD repeat-containing protein 5		ACE-ALA-ARG-THR-GLU-VAL-TYR-NH2
+p61964	WD repeat-containing protein 5		MM-101
+p61964	WD repeat-containing protein 5		MM-102
+p61964	WD repeat-containing protein 5		MM-401
+p61964	WD repeat-containing protein 5		MM-402
+p61964	WD repeat-containing protein 5		SER-ALA-ARG-ALA-XY5-VAL-HIS-LEU-ARG-LYS-SER-ALA
+p61964	WD repeat-containing protein 5		WDR5-binding Monobody, Mb(S4)
+p61964	WD repeat-containing protein 5	g2xkq0	Small ubiquitin-related modifier 5
+p61964	WD repeat-containing protein 5	o14686	Histone-lysine N-methyltransferase 2D
+p61964	WD repeat-containing protein 5	o15047	Histone-lysine N-methyltransferase SETD1A
+p61964	WD repeat-containing protein 5	p01106	Myc proto-oncogene protein
+p61964	WD repeat-containing protein 5	p03495	Non-structural protein 1
+p61964	WD repeat-containing protein 5	p61964	WD repeat-containing protein 5
+p61964	WD repeat-containing protein 5	q03164	Histone-lysine N-methyltransferase 2A
+p61964	WD repeat-containing protein 5	q15291	Retinoblastoma-binding protein 5
+p61964	WD repeat-containing protein 5	q7z3b3	KAT8 regulatory NSL complex subunit 1
+p61964	WD repeat-containing protein 5	q8nez4	Histone-lysine N-methyltransferase 2C
+p61964	WD repeat-containing protein 5	q9h9l4	KAT8 regulatory NSL complex subunit 2
+p61964	WD repeat-containing protein 5	q9umn6	Histone-lysine N-methyltransferase 2B
+p61964	WD repeat-containing protein 5	q9ups6	Histone-lysine N-methyltransferase SETD1B
+p62750	HUMAN 60S ribosomal protein L23a OS=Homo sapiens GN=RPL23A PE=1 SV=1	q09666	HUMAN Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2
+p62826	HUMAN GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3	o75054	HUMAN Immunoglobulin superfamily member 3 OS=Homo sapiens GN=IGSF3 PE=2 SV=3
+p62861	HUMAN 40S ribosomal protein S30 OS=Homo sapiens GN=FAU PE=1 SV=1	p23396	HUMAN 40S ribosomal protein S3 OS=Homo sapiens GN=RPS3 PE=1 SV=2
+p62979	Ubiquitin-40S ribosomal protein S27a		40S RIBOSOMAL PROTEIN
+p62979	Ubiquitin-40S ribosomal protein S27a	o75604	Ubiquitin carboxyl-terminal hydrolase 2
+p62979	Ubiquitin-40S ribosomal protein S27a	o75886	Signal transducing adapter molecule 2
+p62979	Ubiquitin-40S ribosomal protein S27a	p06104	Ubiquitin-conjugating enzyme E2 2
+p62979	Ubiquitin-40S ribosomal protein S27a	p12004	Proliferating cell nuclear antigen
+p62979	Ubiquitin-40S ribosomal protein S27a	p13639	Elongation factor 2
+p62979	Ubiquitin-40S ribosomal protein S27a	p22314	Ubiquitin-like modifier-activating enzyme 1
+p62979	Ubiquitin-40S ribosomal protein S27a	p25398	40S ribosomal protein S12
+p62979	Ubiquitin-40S ribosomal protein S27a	p61088	Ubiquitin-conjugating enzyme E2 N
+p62979	Ubiquitin-40S ribosomal protein S27a	p62273	40S ribosomal protein S29
+p62979	Ubiquitin-40S ribosomal protein S27a	p62979	Ubiquitin-40S ribosomal protein S27a
+p62979	Ubiquitin-40S ribosomal protein S27a	q13895	Bystin
+p62979	Ubiquitin-40S ribosomal protein S27a	q2nl82	Pre-rRNA-processing protein TSR1 homolog
+p62979	Ubiquitin-40S ribosomal protein S27a	q5ztl4	MavC
+p62979	Ubiquitin-40S ribosomal protein S27a	q6tqr6	RNA-directed RNA polymerase L
+p62979	Ubiquitin-40S ribosomal protein S27a	q8iyw5	E3 ubiquitin-protein ligase RNF168
+p62979	Ubiquitin-40S ribosomal protein S27a	q8nc51	Plasminogen activator inhibitor 1 RNA-binding protein
+p62979	Ubiquitin-40S ribosomal protein S27a	q96ga3	Protein LTV1 homolog
+p62979	Ubiquitin-40S ribosomal protein S27a	q9una4	DNA polymerase iota
+p62987	HUMAN Ubiquitin-60S ribosomal protein L40 OS=Homo sapiens GN=UBA52 PE=1 SV=2	o60343	HUMAN Isoform 4 of TBC1 domain family member 4 OS=Homo sapiens GN=TBC1D4
+p63104	14-3-3 protein zeta/delta		EtMe
+p63104	14-3-3 protein zeta/delta		ExoS (416-430) peptide
+p63104	14-3-3 protein zeta/delta		GLN-GLY-MKD-ANG-ASP-MKD-LEU-ASP-LEU-ALA-CLU
+p63104	14-3-3 protein zeta/delta		LYS-LEU-SEP-LEU-GLN
+p63104	14-3-3 protein zeta/delta		PHOSPHOPEPTIDE
+p63104	14-3-3 protein zeta/delta	p04049	RAF proto-oncogene serine/threonine-protein kinase
+p63104	14-3-3 protein zeta/delta	p0doj7	Middle T antigen
+p63104	14-3-3 protein zeta/delta	p13569	Cystic fibrosis transmembrane conductance regulator
+p63104	14-3-3 protein zeta/delta	p13612	Integrin alpha-4
+p63104	14-3-3 protein zeta/delta	p15056	Serine/threonine-protein kinase B-raf
+p63104	14-3-3 protein zeta/delta	p30307	M-phase inducer phosphatase 3
+p63104	14-3-3 protein zeta/delta	p40818	Ubiquitin carboxyl-terminal hydrolase 8
+p63104	14-3-3 protein zeta/delta	p61587	Rho-related GTP-binding protein RhoE
+p63104	14-3-3 protein zeta/delta	p63104	14-3-3 protein zeta/delta
+p63104	14-3-3 protein zeta/delta	q02156	Protein kinase C epsilon type
+p63104	14-3-3 protein zeta/delta	q07889	Son of sevenless homolog 1
+p63104	14-3-3 protein zeta/delta	q15831	Serine/threonine-protein kinase STK11
+p63104	14-3-3 protein zeta/delta	q29495	Serotonin N-acetyltransferase
+p63104	14-3-3 protein zeta/delta	q93sq3	Exoenzyme S
+p63104	14-3-3 protein zeta/delta	q96rr4	Calcium/calmodulin-dependent protein kinase kinase 2
+p63104	14-3-3 protein zeta/delta	q99683	Mitogen-activated protein kinase kinase kinase 5
+p63104	14-3-3 protein zeta/delta	q9p0n9	TBC1 domain family member 7
+p63104	14-3-3 protein zeta/delta	q9p289	Serine/threonine-protein kinase 26
+p63104	14-3-3 protein zeta/delta	q9ubf8	Phosphatidylinositol 4-kinase beta
+p63104	14-3-3 protein zeta/delta	q9uqc2	GRB2-associated-binding protein 2
+p63104	14-3-3 protein zeta/delta	q9y3m2	Protein chibby homolog 1
+p82914	HUMAN 28S ribosomal protein S15	q8ix06	HUMAN Putative exonuclease GOR OS=Homo sapiens GN=REXO1L1P PE=5 SV=2
+p83731	HUMAN 60S ribosomal protein L24 OS=Homo sapiens GN=RPL24 PE=1 SV=1	o43824	HUMAN Putative GTP-binding protein 6 OS=Homo sapiens GN=GTPBP6 PE=2 SV=3
+p83916	Chromobox protein homolog 1	p83916	Chromobox protein homolog 1
+p83916	Chromobox protein homolog 1	q5fbb7	Shugoshin 1
+p83916	Chromobox protein homolog 1	q7z589	BRCA2-interacting transcriptional repressor EMSY
+q03164	Histone-lysine N-methyltransferase 2A	o00255	Menin
+q03164	Histone-lysine N-methyltransferase 2A	o75475	PC4 and SFRS1-interacting protein
+q03164	Histone-lysine N-methyltransferase 2A	p16220	Cyclic AMP-responsive element-binding protein 1
+q03164	Histone-lysine N-methyltransferase 2A	p61964	WD repeat-containing protein 5
+q03164	Histone-lysine N-methyltransferase 2A	q15291	Retinoblastoma-binding protein 5
+q03164	Histone-lysine N-methyltransferase 2A	q92793	CREB-binding protein
+q03164	Histone-lysine N-methyltransferase 2A	q9ubl3	Set1/Ash2 histone methyltransferase complex subunit ASH2
+q03188	Centromere protein C	q6p1k2	Polyamine-modulated factor 1
+q03188	Centromere protein C	q96iy1	Kinetochore-associated protein NSL1 homolog
+q03188	Centromere protein C	q9h081	Protein MIS12 homolog
+q03188	Centromere protein C	q9h410	Kinetochore-associated protein DSN1 homolog
+q12830	Nucleosome-remodeling factor subunit BPTF		GLY-KCR-GLY
+q12830	Nucleosome-remodeling factor subunit BPTF	q12830	Nucleosome-remodeling factor subunit BPTF
+q12888	TP53-binding protein 1		DIMETHYLATED p53 LYSINE 372 PEPTIDE
+q12888	TP53-binding protein 1		DIMETHYLATED p53 LYSINE 382 PEPTIDE
+q12888	TP53-binding protein 1		DIMETHYLATED p53 Lysine 370 PEPTIDE
+q12888	TP53-binding protein 1		SEP-GLN-GLU-TYR
+q12888	TP53-binding protein 1	p04637	Cellular tumor antigen p53
+q12888	TP53-binding protein 1	p06400	Retinoblastoma-associated protein
+q12888	TP53-binding protein 1	p52293	Importin subunit alpha-1
+q12888	TP53-binding protein 1	p62987	Ubiquitin-60S ribosomal protein L40
+q12888	TP53-binding protein 1	q12888	TP53-binding protein 1
+q12888	TP53-binding protein 1	q92547	DNA topoisomerase 2-binding protein 1
+q12888	TP53-binding protein 1	q96de0	U8 snoRNA-decapping enzyme
+q12888	TP53-binding protein 1	q9brj7	Tudor-interacting repair regulator protein
+q13185	Chromobox protein homolog 3	d4a055	Voltage-dependent L-type calcium channel subunit beta-4
+q13185	Chromobox protein homolog 3	q13185	Chromobox protein homolog 3
+q13185	Chromobox protein homolog 3	q96kq7	Histone-lysine N-methyltransferase EHMT2
+q13889	HUMAN General transcription factor IIH subunit 3 OS=Homo sapiens GN=GTF2H3 PE=1 SV=2	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+q13889	HUMAN General transcription factor IIH subunit 3 OS=Homo sapiens GN=GTF2H3 PE=1 SV=2	p55145	HUMAN Mesencephalic astrocyte-derived neurotrophic factor OS=Homo sapiens GN=MANF PE=1 SV=3
+q14149	MORC family CW-type zinc finger protein 3		ALA-ARG-THR-LYS-GLN-THR-ALA-ARG
+q14149	MORC family CW-type zinc finger protein 3	q14149	MORC family CW-type zinc finger protein 3
+q14676	Mediator of DNA damage checkpoint protein 1		phospho peptide
+q14676	Mediator of DNA damage checkpoint protein 1	q14676	Mediator of DNA damage checkpoint protein 1
+q14676	Mediator of DNA damage checkpoint protein 1	q92547	DNA topoisomerase 2-binding protein 1
+q14739	HUMAN Lamin-B receptor OS=Homo sapiens GN=LBR PE=1 SV=2	q8iw00	HUMAN V-set and transmembrane domain-containing protein 4 OS=Homo sapiens GN=VSTM4 PE=2 SV=3
+q14839	Chromodomain-helicase-DNA-binding protein 4	q15059	Bromodomain-containing protein 3
+q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2	q09666	HUMAN Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2
+q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2	q3yec7	HUMAN Rab-like protein 6 OS=Homo sapiens GN=RABL6 PE=1 SV=2
+q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2	q9npc7	HUMAN Myoneurin OS=Homo sapiens GN=MYNN PE=1 SV=1
+q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2	q9y6n6	HUMAN Laminin subunit gamma-3 OS=Homo sapiens GN=LAMC3 PE=1 SV=3
+q14974	Importin subunit beta-1		FXFG NUCLEOPORIN REPEATS
+q14974	Importin subunit beta-1	o95149	Snurportin-1
+q14974	Importin subunit beta-1	o95863	Zinc finger protein SNAI1
+q14974	Importin subunit beta-1	p12272	Parathyroid hormone-related protein
+q14974	Importin subunit beta-1	p14907	Nucleoporin NSP1
+q14974	Importin subunit beta-1	p52292	Importin subunit alpha-1
+q14974	Importin subunit beta-1	p62826	GTP-binding nuclear protein Ran
+q14974	Importin subunit beta-1	q02630	Nucleoporin NUP116/NSP116
+q15047	Histone-lysine N-methyltransferase SETDB1		MLY-SER-THR-E2G
+q15047	Histone-lysine N-methyltransferase SETDB1	q8vds3	Chromobox protein homolog 7
+q15059	Bromodomain-containing protein 3	o43791	Speckle-type POZ protein
+q15059	Bromodomain-containing protein 3	p51532	Transcription activator BRG1
+q15059	Bromodomain-containing protein 3	q14839	Chromodomain-helicase-DNA-binding protein 4
+q15059	Bromodomain-containing protein 3	q15059	Bromodomain-containing protein 3
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	o15230	HUMAN Laminin subunit alpha-5 OS=Homo sapiens GN=LAMA5 PE=1 SV=8
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	o75390	HUMAN Citrate synthase
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	p02533	HUMAN Keratin
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	p05783	HUMAN Keratin
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	p05787	HUMAN Keratin
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	p51178	HUMAN 1-phosphatidylinositol 4
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	p78559	HUMAN Microtubule-associated protein 1A OS=Homo sapiens GN=MAP1A PE=1 SV=6
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q01973	HUMAN Inactive tyrosine-protein kinase transmembrane receptor ROR1 OS=Homo sapiens GN=ROR1 PE=1 SV=2
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q13535	HUMAN Serine/threonine-protein kinase ATR OS=Homo sapiens GN=ATR PE=1 SV=3
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q14146	HUMAN Unhealthy ribosome biogenesis protein 2 homolog OS=Homo sapiens GN=URB2 PE=2 SV=2
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q14643	HUMAN Inositol 1
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q15058	HUMAN Kinesin-like protein KIF14 OS=Homo sapiens GN=KIF14 PE=1 SV=1
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q674x7	HUMAN Kazrin OS=Homo sapiens GN=KAZN PE=1 SV=2
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q6kcm7	HUMAN Calcium-binding mitochondrial carrier protein SCaMC-2 OS=Homo sapiens GN=SLC25A25 PE=1 SV=1
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q7rtt6	HUMAN Putative protein SSX6 OS=Homo sapiens GN=SSX6 PE=5 SV=1
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q8iur0	HUMAN Trafficking protein particle complex subunit 5 OS=Homo sapiens GN=TRAPPC5 PE=1 SV=1
+q15149	HUMAN Plectin OS=Homo sapiens GN=PLEC PE=1 SV=3	q9y3a2	HUMAN Probable U3 small nucleolar RNA-associated protein 11 OS=Homo sapiens GN=UTP11L PE=1 SV=2
+q15651	HUMAN High mobility group nucleosome-binding domain-containing protein 3 OS=Homo sapiens GN=HMGN3 PE=1 SV=2	p07355	HUMAN Annexin A2 OS=Homo sapiens GN=ANXA2 PE=1 SV=2
+q15651	HUMAN High mobility group nucleosome-binding domain-containing protein 3 OS=Homo sapiens GN=HMGN3 PE=1 SV=2	q8wyp5	HUMAN Protein ELYS OS=Homo sapiens GN=AHCTF1 PE=1 SV=3
+q15910	Histone-lysine N-methyltransferase EZH2		JARID2-substrate
+q15910	Histone-lysine N-methyltransferase EZH2		SUZ12
+q15910	Histone-lysine N-methyltransferase EZH2	o75530	Polycomb protein EED
+q15910	Histone-lysine N-methyltransferase EZH2	q09028	Histone-binding protein RBBP4
+q15910	Histone-lysine N-methyltransferase EZH2	q15022	Polycomb protein SUZ12
+q15910	Histone-lysine N-methyltransferase EZH2	q15910	Histone-lysine N-methyltransferase EZH2
+q15910	Histone-lysine N-methyltransferase EZH2	q6zn18	Zinc finger protein AEBP2
+q15910	Histone-lysine N-methyltransferase EZH2	q92833	Protein Jumonji
+q3yec7	HUMAN Rab-like protein 6 OS=Homo sapiens GN=RABL6 PE=1 SV=2	q14839	HUMAN Chromodomain-helicase-DNA-binding protein 4 OS=Homo sapiens GN=CHD4 PE=1 SV=2
+q49a26	Putative oxidoreductase GLYR1	q49a26	Putative oxidoreductase GLYR1
+q49a26	Putative oxidoreductase GLYR1	q8nb78	Lysine-specific histone demethylase 1B
+q504y3	Zinc finger CW-type PWWP domain protein 2	q504y3	Zinc finger CW-type PWWP domain protein 2
+q582g4	Protein arginine N-methyltransferase 7	q582g4	Protein arginine N-methyltransferase 7
+q5t6s3	PHD finger protein 19	q09028	Histone-binding protein RBBP4
+q5t6s3	PHD finger protein 19	q15022	Polycomb protein SUZ12
+q5t6s3	PHD finger protein 19	q92833	Protein Jumonji
+q5vwg9	Transcription initiation factor TFIID subunit 3		poly(UNK)
+q5vwg9	Transcription initiation factor TFIID subunit 3	o00268	Transcription initiation factor TFIID subunit 4
+q5vwg9	Transcription initiation factor TFIID subunit 3	p49848	Transcription initiation factor TFIID subunit 6
+q5vwg9	Transcription initiation factor TFIID subunit 3	q12962	Transcription initiation factor TFIID subunit 10
+q5vwg9	Transcription initiation factor TFIID subunit 3	q15542	Transcription initiation factor TFIID subunit 5
+q5vwg9	Transcription initiation factor TFIID subunit 3	q16594	Transcription initiation factor TFIID subunit 9
+q6b0i6	Lysine-specific demethylase 4D	q6b0i6	Lysine-specific demethylase 4D
+q6p2q9	HUMAN Pre-mRNA-processing-splicing factor 8 OS=Homo sapiens GN=PRPF8 PE=1 SV=2	o94925	HUMAN Glutaminase kidney isoform
+q6pl18	ATPase family AAA domain-containing protein 2	q6pl18	ATPase family AAA domain-containing protein 2
+q6zqq6	HUMAN WD repeat-containing protein 87 OS=Homo sapiens GN=WDR87 PE=1 SV=3	p11142	HUMAN Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1
+q7jxa8	RHINO	q7jxa8	RHINO
+q7jxa8	RHINO	q9vif5	Protein deadlock
+q86x55	Histone-arginine methyltransferase CARM1	p11940	Polyadenylate-binding protein 1
+q86x55	Histone-arginine methyltransferase CARM1	q86x55	Histone-arginine methyltransferase CARM1
+q86y22	HUMAN Collagen alpha-1(XXIII) chain OS=Homo sapiens GN=COL23A1 PE=1 SV=1	p02545	HUMAN Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1
+q86y22	HUMAN Collagen alpha-1(XXIII) chain OS=Homo sapiens GN=COL23A1 PE=1 SV=1	p62906	HUMAN 60S ribosomal protein L10a OS=Homo sapiens GN=RPL10A PE=1 SV=2
+q8ie47	NAD-dependent protein deacylase Sir2A	q8ie47	NAD-dependent protein deacylase Sir2A
+q8n8u2	Chromodomain Y-like protein 2		IVA-PHE-ALA-PHE-5T3-SER-NH2
+q8n8u2	Chromodomain Y-like protein 2		UNC3866
+q8n8u2	Chromodomain Y-like protein 2	q8n8u2	Chromodomain Y-like protein 2
+q8nb78	Lysine-specific histone demethylase 1B	q49a26	Putative oxidoreductase GLYR1
+q8ncn4	E3 ubiquitin-protein ligase RNF169	q8ncn4	E3 ubiquitin-protein ligase RNF169
+q8ncn4	E3 ubiquitin-protein ligase RNF169	q93009	Ubiquitin carboxyl-terminal hydrolase 7
+q8ne71	HUMAN ATP-binding cassette sub-family F member 1 OS=Homo sapiens GN=ABCF1 PE=1 SV=2	q6uw60	HUMAN Proprotein convertase subtilisin/kexin type 4 OS=Homo sapiens GN=PCSK4 PE=2 SV=2
+q8nem0	Microcephalin	p30260	Cell division cycle protein 27 homolog
+q8nez4	Histone-lysine N-methyltransferase 2C	p61964	WD repeat-containing protein 5
+q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1	p55081	HUMAN Microfibrillar-associated protein 1 OS=Homo sapiens GN=MFAP1 PE=1 SV=2
+q8td16	HUMAN Protein bicaudal D homolog 2 OS=Homo sapiens GN=BICD2 PE=1 SV=1	q8td19	HUMAN Serine/threonine-protein kinase Nek9 OS=Homo sapiens GN=NEK9 PE=1 SV=2
+q8tf76	Serine/threonine-protein kinase haspin		(2R,3S,4R,5R,6R)-6-((1R,2R,3S,4R,6S)-4,6-DIAMINO-2,3-DIHYDROXYCYCLOHEXYLOXY)-5-AMINO-2-(AMINOMETHYL)-TETRAHYDRO-2H-PYRAN-3,4-DIOL
+q8tf76	Serine/threonine-protein kinase haspin		ARC-3372 INHIBITOR
+q8wts6	Histone-lysine N-methyltransferase SETD7		Dnmt1
+q8wts6	Histone-lysine N-methyltransferase SETD7		Estrogen receptor
+q8wts6	Histone-lysine N-methyltransferase SETD7	p03372	Estrogen receptor
+q8wts6	Histone-lysine N-methyltransferase SETD7	p04637	Cellular tumor antigen p53
+q8wts6	Histone-lysine N-methyltransferase SETD7	q12962	Transcription initiation factor TFIID subunit 10
+q8wts6	Histone-lysine N-methyltransferase SETD7	q8wts6	Histone-lysine N-methyltransferase SETD7
+q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4	o43852	HUMAN Calumenin OS=Homo sapiens GN=CALU PE=1 SV=2
+q8wz42	HUMAN Titin OS=Homo sapiens GN=TTN PE=1 SV=4	o76021	HUMAN Ribosomal L1 domain-containing protein 1 OS=Homo sapiens GN=RSL1D1 PE=1 SV=3
+q92466	DNA damage-binding protein 2	q16531	DNA damage-binding protein 1
+q92576	HUMAN PHD finger protein 3 OS=Homo sapiens GN=PHF3 PE=1 SV=3	p17096	HUMAN High mobility group protein HMG-I/HMG-Y OS=Homo sapiens GN=HMGA1 PE=1 SV=3
+q92793	CREB-binding protein		CID
+q92793	CREB-binding protein	p01103#q03164	P01103:#Transcriptional activator Myb#Q03164:#Histone-lysine N-methyltransferase 2A
+q92793	CREB-binding protein	p15884	Transcription factor 4
+q92793	CREB-binding protein	p16220	Cyclic AMP-responsive element-binding protein 1
+q92793	CREB-binding protein	p37231	Peroxisome proliferator-activated receptor gamma
+q92793	CREB-binding protein	p63165	Small ubiquitin-related modifier 1
+q92793	CREB-binding protein	q03164	Histone-lysine N-methyltransferase 2A
+q92793	CREB-binding protein	q14653	Interferon regulatory factor 3
+q92793	CREB-binding protein	q9y6q9	Nuclear receptor coactivator 3
+q92973	Transportin-1	g0sfc3	60S ribosomal protein L4-like protein
+q92973	Transportin-1	p09651	Heterogeneous nuclear ribonucleoprotein A1
+q92973	Transportin-1	p32505	Nuclear polyadenylated RNA-binding protein NAB2
+q92973	Transportin-1	p35637	RNA-binding protein FUS
+q92973	Transportin-1	p52272	Heterogeneous nuclear ribonucleoprotein M
+q92973	Transportin-1	p62826	GTP-binding nuclear protein Ran
+q92973	Transportin-1	q14498	RNA-binding protein 39
+q92973	Transportin-1	q92973	Transportin-1
+q92973	Transportin-1	q9ubu9	Nuclear RNA export factor 1
+q96kj9	HUMAN Cytochrome c oxidase subunit 4 isoform 2	q14789	HUMAN Golgin subfamily B member 1 OS=Homo sapiens GN=GOLGB1 PE=1 SV=2
+q96kq7	Histone-lysine N-methyltransferase EHMT2	q13185	Chromobox protein homolog 3
+q96kq7	Histone-lysine N-methyltransferase EHMT2	q96kq7	Histone-lysine N-methyltransferase EHMT2
+q96t88	E3 ubiquitin-protein ligase UHRF1		UNK-UNK-UNK-UNK
+q96t88	E3 ubiquitin-protein ligase UHRF1	e7ezf3	E3 ubiquitin-protein ligase UHRF1
+q96t88	E3 ubiquitin-protein ligase UHRF1	p18858	DNA ligase 1
+q96t88	E3 ubiquitin-protein ligase UHRF1	q15004	PCNA-associated factor
+q96t88	E3 ubiquitin-protein ligase UHRF1	q93009	Ubiquitin carboxyl-terminal hydrolase 7
+q96t88	E3 ubiquitin-protein ligase UHRF1	q96t88	E3 ubiquitin-protein ligase UHRF1
+q99549	M-phase phosphoprotein 8		UNC3866
+q99549	M-phase phosphoprotein 8	q9y6k1	DNA (cytosine-5)-methyltransferase 3A
+q9br39	HUMAN Junctophilin-2 OS=Homo sapiens GN=JPH2 PE=1 SV=2	q04743	HUMAN Isoform 2 of Homeobox protein EMX2 OS=Homo sapiens GN=EMX2
+q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1		(6D6)PPKRIA(NH2), DC100-1
+q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1		CENP-A peptide
+q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1	p18754	Regulator of chromosome condensation
+q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1	q9bv86	N-terminal Xaa-Pro-Lys N-methyltransferase 1
+q9bvi0	PHD finger protein 20	q9bvi0	PHD finger protein 20
+q9byn7	HUMAN Zinc finger protein 341 OS=Homo sapiens GN=ZNF341 PE=1 SV=2	p30837	HUMAN Aldehyde dehydrogenase X
+q9byw2	Histone-lysine N-methyltransferase SETD2		ALA-PRO-ARG-PHE-GLY-GLY-VAL-MET-ARG-PRO-ASN-ARG
+q9bz95	Histone-lysine N-methyltransferase NSD3		ACE-GLY-VAL-NLE-ARG-ILE-NH2
+q9bz95	Histone-lysine N-methyltransferase NSD3	o60885	Bromodomain-containing protein 4
+q9bz95	Histone-lysine N-methyltransferase NSD3	q9bz95	Histone-lysine N-methyltransferase NSD3
+q9esu6	Bromodomain-containing protein 4	q9esu6	Bromodomain-containing protein 4
+q9h8m2	Bromodomain-containing protein 9	q9h8m2	Bromodomain-containing protein 9
+q9nq66	HUMAN 1-phosphatidylinositol 4	q99623	HUMAN Prohibitin-2 OS=Homo sapiens GN=PHB2 PE=1 SV=2
+q9nqr1	N-lysine methyltransferase KMT5A		helical peptide
+q9nqr1	N-lysine methyltransferase KMT5A	q6gmv2	SET and MYND domain-containing protein 5
+q9nqr1	N-lysine methyltransferase KMT5A	q9nqr1	N-lysine methyltransferase KMT5A
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		ARG-HIS-LYS
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		ARG-THR-LYS-GLN-THR-ALA-ARG
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		Acetylated ACS2 peptide
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		Fluor-de-Lys peptide
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial		PEPTIDE
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial	p04637	Cellular tumor antigen p53
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial	q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+q9ntg7	NAD-dependent protein deacetylase sirtuin-3, mitochondrial	q9nub1	Acetyl-coenzyme A synthetase 2-like, mitochondrial
+q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		Coumarin-labelled succinyl peptide
+q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial		Succinylated IDH2 peptide
+q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial	q9nxa8	NAD-dependent protein deacylase sirtuin-5, mitochondrial
+q9p1p4	HUMAN Putative trace amine-associated receptor 3 OS=Homo sapiens GN=TAAR3 PE=2 SV=1	q08211	HUMAN ATP-dependent RNA helicase A OS=Homo sapiens GN=DHX9 PE=1 SV=4
+q9qr71	Protein LANA1	o60885	Bromodomain-containing protein 4
+q9qr71	Protein LANA1	q9qr71	Protein LANA1
+q9ubc3	DNA (cytosine-5)-methyltransferase 3B	q9ubc3	DNA (cytosine-5)-methyltransferase 3B
+q9ubc3	DNA (cytosine-5)-methyltransferase 3B	q9ujw3	DNA (cytosine-5)-methyltransferase 3-like
+q9uer7	Death domain-associated protein 6	p46100	Transcriptional regulator ATRX
+q9uer7	Death domain-associated protein 6	p63165	Small ubiquitin-related modifier 1
+q9uer7	Death domain-associated protein 6	q9ns23	Ras association domain-containing protein 1
+q9uer7	Death domain-associated protein 6	q9uer7	Death domain-associated protein 6
+q9uif9	Bromodomain adjacent to zinc finger domain protein 2A		ALA-ARG-TAM
+q9uif9	Bromodomain adjacent to zinc finger domain protein 2A		ALA-ARG-THR-ALA-ALA-THR-ALA-ARG
+q9uif9	Bromodomain adjacent to zinc finger domain protein 2A	q9uif9	Bromodomain adjacent to zinc finger domain protein 2A
+q9uig0	HUMAN Tyrosine-protein kinase BAZ1B OS=Homo sapiens GN=BAZ1B PE=1 SV=2	o60264	HUMAN SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5 OS=Homo sapiens GN=SMARCA5 PE=1 SV=1
+q9unl4	Inhibitor of growth protein 4	q9unl4	Inhibitor of growth protein 4
+q9upp1	Histone lysine demethylase PHF8	q9upp1	Histone lysine demethylase PHF8
+q9y294	Histone chaperone ASF1A		ip2_s
+q9y294	Histone chaperone ASF1A		ip3
+q9y294	Histone chaperone ASF1A		ip4
+q9y294	Histone chaperone ASF1A	p21675	Transcription initiation factor TFIID subunit 1
+q9y294	Histone chaperone ASF1A	p54198	Protein HIRA
+q9y294	Histone chaperone ASF1A	q9y294	Histone chaperone ASF1A
+q9y3e1	Hepatoma-derived growth factor-related protein 3	q9y3e1	Hepatoma-derived growth factor-related protein 3
+q9y3y4	Pygopus homolog 1	o00512	B-cell CLL/lymphoma 9 protein
+q9y468	Lethal(3)malignant brain tumor-like protein 1	p04637	Cellular tumor antigen p53
+q9y468	Lethal(3)malignant brain tumor-like protein 1	q9y468	Lethal(3)malignant brain tumor-like protein 1
+q9y4l1	HUMAN Hypoxia up-regulated protein 1 OS=Homo sapiens GN=HYOU1 PE=1 SV=1	p11021	HUMAN 78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2
+q9y4l1	HUMAN Hypoxia up-regulated protein 1 OS=Homo sapiens GN=HYOU1 PE=1 SV=1	q9h0i2	HUMAN Isoform 2 of Enkurin domain-containing protein 1 OS=Homo sapiens GN=ENKD1
+q9y520	HUMAN Protein PRRC2C OS=Homo sapiens GN=PRRC2C PE=1 SV=4	q86w92	HUMAN Liprin-beta-1 OS=Homo sapiens GN=PPFIBP1 PE=1 SV=2
+q9y5n5	Methyltransferase N6AMT1	q9ui30	Multifunctional methyltransferase subunit TRM112-like protein
+q9y657	Spindlin-1	q9y657	Spindlin-1
+q9y6f8	Testis-specific chromodomain protein Y 1	q9y6f8	Testis-specific chromodomain protein Y 1
+q9y6k1	DNA (cytosine-5)-methyltransferase 3A	q99549	M-phase phosphoprotein 8
+q9y6k1	DNA (cytosine-5)-methyltransferase 3A	q9ujw3	DNA (cytosine-5)-methyltransferase 3-like
+q9y6k1	DNA (cytosine-5)-methyltransferase 3A	q9y6k1	DNA (cytosine-5)-methyltransferase 3A
+q9y6q1	HUMAN Calpain-6 OS=Homo sapiens GN=CAPN6 PE=1 SV=2	p19338	HUMAN Nucleolin OS=Homo sapiens GN=NCL PE=1 SV=3
