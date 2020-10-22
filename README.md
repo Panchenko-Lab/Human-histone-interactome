@@ -1,7 +1,8 @@
 # Human-histone-interactome
 This folder contains human histone interactomes buit from structural, chemical cross-linking and high-throughput data.
 All files can be read with Cytoscape 3.7.0 or higher version.
-Al networks are also available in NDEX: http://www.ndexbio.org/#/networkset/5db012ad-14ad-11eb-9eee-0ac135e8bacf?accesskey=b616683616e31901f53187d8d6dd98ddcc7e756193686aa9006ade943691e8ae
+
+All networks are also available in NDEX: http://www.ndexbio.org/#/networkset/5db012ad-14ad-11eb-9eee-0ac135e8bacf?accesskey=b616683616e31901f53187d8d6dd98ddcc7e756193686aa9006ade943691e8ae
 
 Human structural interactome                                                                                                                                   
 protein-level: Structural_protein.cys                                
